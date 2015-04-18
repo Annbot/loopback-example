@@ -39,7 +39,7 @@ discovery.
 
 Teaches the basics of model relations and basic filtering via REST.
 
-- [loopback-example-model-relations](https://github.com/strongloop/loopback-example-model-relations)
+- [loopback-example-relations](https://github.com/strongloop/loopback-example-relations)
 
 ###Adding application logic
 
@@ -65,6 +65,7 @@ to a particular topic.
 |   |[loopback-example-app](https://github.com/strongloop/loopback-example-app)                  |A full stack LoopBack application (iCars)                                             |
 |   |[loopback-example-boot-scripts](https://github.com/strongloop/loopback-example-boot-scripts)|How to use the LoopBack boot script generator                                         |
 |   |[loopback-example-component](https://github.com/strongloop/loopback-example-component)      |                                                                                      |
+|   |[loopback-example-isomorphic](https://github.com/strongloop/loopback-example-isomorphic)    |Using LoopBack on the client-side and server-side.                                    |
 |   |[loopback-example-pubsub](https://github.com/strongloop/loopback-example-pubsub)            |                                                                                      |
 |   |[loopback-example-offline-sync](https://github.com/strongloop/loopback-example-offline-sync)|Offline sync with Loopback                                                            |
 |   |[loopback-example-passport](https://github.com/strongloop/loopback-example-passport)        |PassportJS with Loopback                                                              |
@@ -126,4 +127,5 @@ These are either outdated or replaced with better examples.
     - [loopback-example-oracle](https://github.com/strongloop/loopback-example-oracle)
 - [loopback-example-extendedAPI](https://github.com/strongloop/loopback-example-extendedAPI) replaced with [loopback-getting-started](http://github.com/strongloop/loopback-getting-started)
 - [loopback-example-relations-basic](https://github.com/strongloop/loopback-example-relations-basic) replaced with [loopback-example-model-relations](http://github.com/strongloop/loopback-example-model-relations)
+- [loopback-example-model-relations](https://github.com/strongloop/loopback-example-model-relations) replaced with [loopback-example-relations](http://github.com/strongloop/loopback-example-relations)
 - [loopback-example-mySimpleAPI](https://github.com/strongloop/loopback-example-mySimpleAPI) replaced with [loopback-getting-started](http://github.com/strongloop/loopback-getting-started)
