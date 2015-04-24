@@ -60,13 +60,13 @@ to a particular topic.
 |:-:|:-------------------------------------------------------------------------------------------|:-------------------------------------------------------------------------------------|
 |   |[loopback-component-push](https://github.com/strongloop/loopback-component-push)            |LoopBack 2.x examples available in the `examples` dir                                 |
 |   |[loopback-component-storage](https://github.com/strongloop/loopback-component-storage)      |LoopBack 2.0 examples available in the `examples` dir                                 |
-|   |[loopback-example-APIClientApp](https://github.com/strongloop/loopback-example-apiclientapp)|                                                                                      |
+|   |[loopback-example-APIClientApp](https://github.com/strongloop/loopback-example-apiclientapp)|iOS client example                                                                                      |
 |   |[loopback-example-angular](https://github.com/strongloop/loopback-example-angular)          |A simple todo list using AngularJS on the client side and LoopBack on the server side.|
 |   |[loopback-example-app](https://github.com/strongloop/loopback-example-app)                  |A full stack LoopBack application (iCars)                                             |
 |   |[loopback-example-boot-scripts](https://github.com/strongloop/loopback-example-boot-scripts)|How to use the LoopBack boot script generator                                         |
-|   |[loopback-example-component](https://github.com/strongloop/loopback-example-component)      |                                                                                      |
+                                                                      |
 |   |[loopback-example-isomorphic](https://github.com/strongloop/loopback-example-isomorphic)    |Using LoopBack on the client-side and server-side.                                    |
-|   |[loopback-example-pubsub](https://github.com/strongloop/loopback-example-pubsub)            |                                                                                      |
+|   |[loopback-example-pubsub](https://github.com/strongloop/loopback-example-pubsub)            |Example using strong-pubsub                                                                                      |
 |   |[loopback-example-offline-sync](https://github.com/strongloop/loopback-example-offline-sync)|Offline sync with Loopback                                                            |
 |   |[loopback-example-passport](https://github.com/strongloop/loopback-example-passport)        |PassportJS with Loopback                                                              |
 | ✔ |[loopback-example-recipes](https://github.com/strongloop/loopback-example-recipes)          |                                                                                      |
