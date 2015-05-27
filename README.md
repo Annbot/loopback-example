@@ -84,7 +84,7 @@ Example repositories for frequently-asked questions.
 
 - [loopback-faq-email](https://github.com/strongloop/loopback-faq-email)
 - [loopback-faq-middleware](https://github.com/strongloop/loopback-faq-middleware)
-- [loopback-faq-model-hooks](https://github.com/strongloop/loopback-faq-model-hooks)
+- [loopback-faq-operation-hooks](https://github.com/strongloop/loopback-faq-operation-hooks)
 - [loopback-faq-rest-connector](https://github.com/strongloop/loopback-faq-rest-connector)
 - [loopback-faq-user-management](https://github.com/strongloop/loopback-faq-user-management)
 - [loopback-faq-model-relations](https://github.com/strongloop/loopback-faq-model-relations) - WIP
