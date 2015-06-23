@@ -5,10 +5,10 @@ This is a [LoopBack][loopback] [demo](#terminology) list maintained by [StrongLo
 - [Overview](#overview)
 - [Terminology](#terminology)
 - [Tutorials](#tutorials)
-  - [FAQ tutorials](#faq-examples)
-  - [Community tutorials](#community-examples)
+  - [FAQ](#faq-examples)
+  - [Community](#community-examples)
 - [Examples](#examples)
-  - [Community examples](#community-examples)
+  - [Community](#community-examples)
 - [Deprecated demos](#deprecated-examples)
 
 ##Overview
