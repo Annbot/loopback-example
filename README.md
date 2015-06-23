@@ -1,6 +1,6 @@
 #loopback-example
 
-This is a LoopBack example and tutorial list maintained by StrongLoop.
+This is a LoopBack example and tutorial list maintained by [StrongLoop](strongloop).
 
 - [Terminology](#terminology)
 - [Getting started](#getting-started)
@@ -143,3 +143,5 @@ These are either outdated or replaced with better examples.
 - [loopback-example-relations-basic](https://github.com/strongloop/loopback-example-relations-basic) replaced with [loopback-example-model-relations](http://github.com/strongloop/loopback-example-model-relations)
 - [loopback-example-model-relations](https://github.com/strongloop/loopback-example-model-relations) replaced with [loopback-example-relations](http://github.com/strongloop/loopback-example-relations)
 - [loopback-example-mySimpleAPI](https://github.com/strongloop/loopback-example-mySimpleAPI) replaced with [loopback-getting-started](http://github.com/strongloop/loopback-getting-started)
+
+strongloop: https://strongloop.com/
