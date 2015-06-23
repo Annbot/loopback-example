@@ -23,8 +23,7 @@ These are terms and definitions we'll be using in all our demos:
 
 Term|Definition
 :--|:--
-App|Short for "application", in most cases this means the current demo being
-viewed.
+App|Short for "application", in most cases this means the current demo being viewed.
 Demo|Short for "demonstration", examples and tutorials are both considered "demos".
 Example|Source code and basic instructions on how to run the demo app, does not include step-by-step instructions.
 |Repo|Short for "repository", in most cases it refers to a "GitHub" repository.
