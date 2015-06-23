@@ -22,8 +22,8 @@ tutorials:
 
 Term|Definition
 :--|:--
-`app`|Short for "application"
-`demo`|Short for "demonstration", examples and tutorials are both considered "demos"
+App|Short for "application"
+Demo|Short for "demonstration", examples and tutorials are both considered "demos"
 Example|Source code and basic instructions on how to run the demo app, does not include step-by-step instructions
 |Tutorial|Includes step-by-step instructions on how to build the demo app
 |WIP|Short for "work in progress", meaning either some of the source code is
