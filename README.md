@@ -38,11 +38,13 @@ basic features of LoopBack.
 ##Tutorials
 
 Status|Name|Description
+:-:|:-:|:--
 WIP|[loopback-getting-started](https://github.com/strongloop/loopback-getting-started)|An basic app to help you get started with LoopBack quickly
 
 ##Examples
 
 Status|Name|Description
+:-:|:-:|:--
 WIP|[loopback-getting-started-intermediate](https://github.com/strongloop/loopback-getting-started-intermediate)|Full stack application built off of [`loopback-getting-started`](https://github.com/strongloop/loopback-getting-started).
 
 ##Tutorial series
