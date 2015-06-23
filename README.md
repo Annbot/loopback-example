@@ -2,13 +2,14 @@
 
 This is a [LoopBack][loopback] [demo](#terminology) list maintained by [StrongLoop][strongloop].
 
-- [Terminology](#terminology)
 - [Overview](#overview)
-- [Tutorial series](#tutorial-series)
-- [Topic-specific examples](#topic-specific-examples)
-- [FAQ examples](#faq-examples)
-- [Community examples](#community-examples)
-- [Deprecated examples](#deprecated-examples)
+- [Terminology](#terminology)
+- [Tutorials](#tutorials)
+  - [FAQ tutorials](#faq-examples)
+  - [Community tutorials](#community-examples)
+- [Examples](#examples)
+  - [Community examples](#community-examples)
+- [Deprecated demos](#deprecated-examples)
 
 ##Overview
 
