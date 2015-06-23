@@ -1,6 +1,6 @@
 #loopback-example
 
-This is a LoopBack example and tutorial list maintained by [StrongLoop](strongloop).
+This is a LoopBack example and tutorial list maintained by [StrongLoop][strongloop].
 
 - [Terminology](#terminology)
 - [Getting started](#getting-started)
