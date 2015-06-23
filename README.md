@@ -25,7 +25,7 @@ demo in any order.
 
 ###Terminology
 
-These are terms and definitions we'll be using in all our demos:
+These are terms and definitions used in all of our demos:
 
 Term|Definition
 :--|:--
