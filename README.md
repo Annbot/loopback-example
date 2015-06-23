@@ -1,5 +1,8 @@
-These example applications illustrate various key LoopBack features.  In some cases, they have accompanying step-by-step instructions (tutorials).  The applications fall into several categories:
+#loopback-example
 
+This is a LoopBack example and tutorial list maintained by StrongLoop.
+
+- [Terminology](#terminology)
 - [Getting started](#getting-started)
 - [Tutorial series](#tutorial-series)
 - [Topic-specific examples](#topic-specific-examples)
@@ -8,6 +11,9 @@ These example applications illustrate various key LoopBack features.  In some ca
 - [Deprecated examples](#deprecated-examples)
 
 ##Terminology
+
+These are terms and definitions we'll be using throughout our examples and
+tutorials:
 
 Term|Definition
 :--|:--
