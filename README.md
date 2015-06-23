@@ -11,8 +11,7 @@ These example applications illustrate various key LoopBack features.  In some ca
 
 Term|Definition
 App|Short for "Application"
-Example|Source code and basic instructions on how to run the app, does not
-include step-by-step instructions
+Example|Source code and basic instructions on how to run the app, does not include step-by-step instructions
 |Tutorial|Includes step-by-step instructions on how to build the application
 
 ##Getting started
