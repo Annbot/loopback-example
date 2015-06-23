@@ -17,8 +17,7 @@ getting started:
 
 ###Terminology
 
-These are terms and definitions we'll be using throughout our examples and
-tutorials:
+These are terms and definitions we'll be using throughout our demos:
 
 Term|Definition
 :--|:--
