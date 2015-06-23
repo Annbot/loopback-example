@@ -3,33 +3,47 @@
 This is a [LoopBack][loopback] example and tutorial list maintained by [StrongLoop][strongloop].
 
 - [Terminology](#terminology)
-- [Getting started](#getting-started)
+- [Overview](#overview)
 - [Tutorial series](#tutorial-series)
 - [Topic-specific examples](#topic-specific-examples)
 - [FAQ examples](#faq-examples)
 - [Community examples](#community-examples)
 - [Deprecated examples](#deprecated-examples)
 
-##Terminology
+##Overview
+
+We recommend familiarizing yourself with the following terminology before
+getting started:
+
+###Terminology
 
 These are terms and definitions we'll be using throughout our examples and
 tutorials:
 
 Term|Definition
 :--|:--
-App|Short for "Application"
-Demo|Short for "Demonstration", examples and tutorials are both considered "demos"
+App|Short for "application"
+Demo|Short for "demonstration", examples and tutorials are both considered "demos"
 Example|Source code and basic instructions on how to run the demo app, does not include step-by-step instructions
 |Tutorial|Includes step-by-step instructions on how to build the demo app
+|WIP|Short for "work in progress", meaning either some of the source code is
+missing or the instructions may not be complete.
 
-##Getting started
+###Getting started
 
-**Start here!**
+We recommend going through the [Getting started with LoopBack tutorial](http://docs.strongloop.com/display/LB/Getting+started+with+LoopBack) to get a quick understanding. After that, go
+through the [tutorial series](#tutorial-series) familiarize yourself with the
+basic features of LoopBack.
 
-Read [Getting started with LoopBack](http://docs.strongloop.com/display/LB/Getting+started+with+LoopBack) to create [loopback-getting-started](https://github.com/strongloop/loopback-getting-started).
+##Tutorials
 
-"Getting started (intermediate)" is a work in progress: 
-[loopback-getting-started-intermediate](https://github.com/strongloop/loopback-getting-started-intermediate).
+Status|Name|Description
+WIP|[loopback-getting-started](https://github.com/strongloop/loopback-getting-started)|An basic app to help you get started with LoopBack quickly
+
+##Examples
+
+Status|Name|Description
+WIP|[loopback-getting-started-intermediate](https://github.com/strongloop/loopback-getting-started-intermediate)|Full stack application built off of [`loopback-getting-started`](https://github.com/strongloop/loopback-getting-started).
 
 ##Tutorial series
 
