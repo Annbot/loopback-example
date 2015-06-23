@@ -144,4 +144,4 @@ These are either outdated or replaced with better examples.
 - [loopback-example-model-relations](https://github.com/strongloop/loopback-example-model-relations) replaced with [loopback-example-relations](http://github.com/strongloop/loopback-example-relations)
 - [loopback-example-mySimpleAPI](https://github.com/strongloop/loopback-example-mySimpleAPI) replaced with [loopback-getting-started](http://github.com/strongloop/loopback-getting-started)
 
-strongloop: https://strongloop.com/
+[strongloop]: https://strongloop.com/
