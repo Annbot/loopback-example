@@ -36,12 +36,6 @@ Example|Source code and basic instructions on how to run the demo app, does not 
 |Tutorial|Includes step-by-step instructions on how to build the demo app.
 |WIP|Short for "work in progress", meaning either some of the source code is missing or the instructions may not be complete.
 
-###Getting started
-
-We recommend going through the [Getting started with LoopBack tutorial](http://docs.strongloop.com/display/LB/Getting+started+with+LoopBack) to get a quick understanding. After that, go
-through the [tutorial series](#tutorial-series) familiarize yourself with the
-basic features of LoopBack.
-
 ##Tutorials
 
 Status|Name|Description
