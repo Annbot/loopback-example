@@ -1,4 +1,4 @@
-#loopback-example
+#loopback-demo
 
 This is a [LoopBack][loopback] [demo](#terminology) list maintained by [StrongLoop][strongloop].
 
