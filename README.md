@@ -12,10 +12,8 @@ These example applications illustrate various key LoopBack features.  In some ca
 Term|Definition
 :--|:--
 App|Short for "Application"
-Demo|Short for "Demonstration", examples and tutorials are both considered
-"demos"
-Example|Source code and basic instructions on how to run the demo app, does not
-include step-by-step instructions
+Demo|Short for "Demonstration", examples and tutorials are both considered "demos"
+Example|Source code and basic instructions on how to run the demo app, does not include step-by-step instructions
 |Tutorial|Includes step-by-step instructions on how to build the demo app
 
 ##Getting started
