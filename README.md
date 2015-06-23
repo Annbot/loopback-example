@@ -1,6 +1,6 @@
 #loopback-example
 
-This is a [LoopBack][loopback] example and tutorial list maintained by [StrongLoop][strongloop].
+This is a [LoopBack][loopback] [demo](#terminology) list maintained by [StrongLoop][strongloop].
 
 - [Terminology](#terminology)
 - [Overview](#overview)
@@ -39,13 +39,13 @@ basic features of LoopBack.
 
 Status|Name|Description
 :-:|:--|:--
-WIP|[loopback-getting-started](https://github.com/strongloop/loopback-getting-started)|An basic app to help you get started with LoopBack quickly
+WIP|[loopback-getting-started](https://github.com/strongloop/loopback-getting-started)|A basic demo on how to use LoopBack
 
 ##Examples
 
 Status|Name|Description
 :-:|:--|:--
-WIP|[loopback-getting-started-intermediate](https://github.com/strongloop/loopback-getting-started-intermediate)|Full stack application built off of [`loopback-getting-started`](https://github.com/strongloop/loopback-getting-started).
+WIP|[loopback-getting-started-intermediate](https://github.com/strongloop/loopback-getting-started-intermediate)|A full-stack example built off of `loopback-getting-started` used to demonstrate intermediate level features of LoopBack
 
 ##Tutorial series
 
