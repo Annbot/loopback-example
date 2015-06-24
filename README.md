@@ -30,12 +30,13 @@ These are terms and definitions used in all of our demos:
 
 Term|Definition
 :--|:--
-App|Short for "application", in most cases this means the current demo being viewed.
-Demo|Short for "demonstration", examples and tutorials are both considered "demos".
-Example|Source code and basic instructions on how to run the demo app, does not include step-by-step instructions.
-|Repo|Short for "repository", in most cases it refers to a "GitHub" repository.
-|Tutorial|Includes step-by-step instructions on how to build the demo app.
-|WIP|Short for "work in progress", meaning either some of the source code is missing or the instructions may not be complete.
+App|Short for "application", in most cases this means the current demo being viewed
+Demo|Short for "demonstration", examples and tutorials are both considered "demos"
+Example|Source code and basic instructions on how to run the demo app, does not include step-by-step instructions
+|Info|Short for "information"
+|Repo|Short for "repository", in most cases it refers to a "GitHub" repository
+|Tutorial|Includes step-by-step instructions on how to build the demo app
+|WIP|Short for "work in progress", meaning either some of the source code is missing or the instructions may not be complete
 
 ##Tutorials
 
