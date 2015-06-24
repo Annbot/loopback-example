@@ -32,6 +32,7 @@ Term|Definition
 :--|:--
 App|Short for "application", in most cases this means the current demo being viewed
 Demo|Short for "demonstration", examples and tutorials are both considered "demos"
+Dir|Short for "directory"
 Doc|Short for "documentation", usually refers to [docs.strongloop.com](http://docs.strongloop.com)
 Example|Source code and basic instructions on how to run the demo app, does not include step-by-step instructions
 |Info|Short for "information"
