@@ -43,13 +43,13 @@ Example|Source code and basic instructions on how to run the demo app, does not 
 
 Status|Name|Description
 :-:|:--|:--
-WIP|[loopback-getting-started](https://github.com/strongloop/loopback-getting-started)|A basic demo on how to use LoopBack
+Complete|[loopback-getting-started](https://github.com/strongloop/loopback-getting-started)|A basic demo on how to use LoopBack
 
 ##Examples
 
 Status|Name|Description
 :-:|:--|:--
-WIP|[loopback-getting-started-intermediate](https://github.com/strongloop/loopback-getting-started-intermediate)|A full-stack example built off of `loopback-getting-started` used to demonstrate intermediate level features of LoopBack
+Complete|[loopback-getting-started-intermediate](https://github.com/strongloop/loopback-getting-started-intermediate)|A full-stack example built off of `loopback-getting-started` used to demonstrate intermediate level features of LoopBack
 
 ##Tutorial series
 
