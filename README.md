@@ -13,12 +13,12 @@ This is a [LoopBack][loopback] [demo](#terminology) list maintained by [StrongLo
 
 ##Overview
 
-The purpose of this repo is to have a single source of truth for all demos
-related to LoopBack. Before starting any demos, make sure you:
+This README provides a complete reference for all demos
+related to LoopBack. Before starting, make sure you:
 
 - Verify the demo exists in one of our sections (if it's not in any section, then its not an official demo maintained by us)
 - Verify the demo does not exist in the [deprecated section](deprecated-demos)
-- Familiar yourself with the [terminology](#terminology) we use in all demos
+- Familiarize yourself with the [terminology](#terminology) we use in all demos
 
 We recommend you complete each ["Getting started" tutorial](#getting-started)
 tutorial in the prescribed order. After that, feel free to try our any other
