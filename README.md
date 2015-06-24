@@ -94,6 +94,7 @@ to a particular topic.
 
 |WIP|Name                                                                                        |Description                                                                           |
 |:-:|:-------------------------------------------------------------------------------------------|:-------------------------------------------------------------------------------------|
+|  |[loopback-android-getting-started](https://github.com/strongloop/loopback-android-getting-started)            |How to use the LoopBack Android SDK |
 |   |[loopback-component-push](https://github.com/strongloop/loopback-component-push)            |LoopBack 2.x examples available in the `examples` dir                                 |
 |   |[loopback-component-storage](https://github.com/strongloop/loopback-component-storage)      |LoopBack 2.0 examples available in the `examples` dir                                 |
 |   |[loopback-example-APIClientApp](https://github.com/strongloop/loopback-example-apiclientapp)|iOS client example                                                                                      |
@@ -106,7 +107,7 @@ to a particular topic.
 |   |[loopback-example-passport](https://github.com/strongloop/loopback-example-passport)        |PassportJS with Loopback                                                              |
 | ✔ |[loopback-example-recipes](https://github.com/strongloop/loopback-example-recipes)          |                                                                                      |
 | ✔ |[loopback-example-remote](https://github.com/strongloop/loopback-example-remote)            |How to use the LoopBack remote connector                                              |
-|   |[loopback-example-ssl](https://github.com/strongloop/loopback-example-ssl)                  |SSL with LoopBack                                                                     |
+|   |[loopback-example-ssl](https://github.com/strongloop/loopback-example-ssl)                  |SSL with LoopBack   
 
 **Examples on docs.strongloop.com**:
 
