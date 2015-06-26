@@ -25,24 +25,6 @@ We recommend you complete each ["Getting started" tutorial](#getting-started)
 tutorial in the prescribed order. After that, feel free to try our any other
 demo in any order.
 
-###Terminology
-
-These are terms and definitions used in all of our demos:
-
-Term|Definition
-:--|:--
-App|Short for "application", in most cases this means the current demo being viewed
-Docs|Short for "documentation", in most cases this refers to the [official documentation](http://docs.strongloop.com/display/LB/LoopBack)
-Demo|Short for "demonstration", examples and tutorials are both considered "demos"
-Deps|Short for "dependencies"
-Dir|Short for "directory"
-Doc|Short for "documentation", usually refers to [docs.strongloop.com](http://docs.strongloop.com)
-Example|Source code and basic instructions on how to run the demo app, does not include step-by-step instructions
-|Info|Short for "information"
-|Repo|Short for "repository", in most cases it refers to a "GitHub" repository
-|Tutorial|Includes step-by-step instructions on how to build the demo app
-|WIP|Short for "work in progress", meaning either some of the source code is missing or the instructions may not be complete
-
 ##Tutorials
 
 Status|Name|Description
@@ -170,6 +152,24 @@ These are either outdated or replaced with better examples.
 - [loopback-example-relations-basic](https://github.com/strongloop/loopback-example-relations-basic) replaced with [loopback-example-model-relations](http://github.com/strongloop/loopback-example-model-relations)
 - [loopback-example-model-relations](https://github.com/strongloop/loopback-example-model-relations) replaced with [loopback-example-relations](http://github.com/strongloop/loopback-example-relations)
 - [loopback-example-mySimpleAPI](https://github.com/strongloop/loopback-example-mySimpleAPI) replaced with [loopback-getting-started](http://github.com/strongloop/loopback-getting-started)
+
+##Terminology
+
+These are terms and definitions used in all of our demos:
+
+Term|Definition
+:--|:--
+App|Short for "application", in most cases this means the current demo being viewed
+Docs|Short for "documentation", in most cases this refers to the [official documentation](http://docs.strongloop.com/display/LB/LoopBack)
+Demo|Short for "demonstration", examples and tutorials are both considered "demos"
+Deps|Short for "dependencies"
+Dir|Short for "directory"
+Doc|Short for "documentation", usually refers to [docs.strongloop.com](http://docs.strongloop.com)
+Example|Source code and basic instructions on how to run the demo app, does not include step-by-step instructions
+|Info|Short for "information"
+|Repo|Short for "repository", in most cases it refers to a "GitHub" repository
+|Tutorial|Includes step-by-step instructions on how to build the demo app
+|WIP|Short for "work in progress", meaning either some of the source code is missing or the instructions may not be complete
 
 [loopback]: https://strongloop.com/node-js/loopback-framework/
 [strongloop]: https://strongloop.com/
