@@ -3,7 +3,6 @@
 This is a [LoopBack][loopback] [demo](#terminology) list maintained by [StrongLoop][strongloop].
 
 - [Overview](#overview)
-- [Terminology](#terminology)
 - [Tutorials](#tutorials)
   - [FAQ](#faq-tutorials)
   - [Community](#community-tutorials)
@@ -11,6 +10,7 @@ This is a [LoopBack][loopback] [demo](#terminology) list maintained by [StrongLo
 - [Examples](#examples)
   - [Community](#community-examples)
   - [Deprecated](#deprecated-examples)
+- [Terminology](#terminology)
 
 ##Overview
 
