@@ -34,28 +34,8 @@ order. Once you've done this, feel free to try [Topic Specific](#topic-specific)
 
 Order|Name|Description|Status
 :-:|:--|:--|:-:
-1|[loopback-getting-started](https://github.com/strongloop/loopback-getting-started)|A basic demo on how to use LoopBack|Complete
-2|
-- [loopback-example-mongodb](https://github.com/strongloop/loopback-example-mongodb)
-- [loopback-example-mssql](https://github.com/strongloop/loopback-example-mssql)|Complete
-- [loopback-example-mysql](https://github.com/strongloop/loopback-example-mysql)
-- [loopback-example-postgresql](https://github.com/strongloop/loopback-example-postgresql)
-- [loopback-example-oracle](https://github.com/strongloop/loopback-example-oracle)
-|Complete
-
-##Tutorial series
-
-Each repository contains a complete application, along with step-by-step instructions to recreate it 
-in the README.
-
-Complete these in the order listed below.  When a step contains multiple repositories, you need only follow 
-one of them before going to the next step; you don't have to finish all of them. For example, follow  `loopback-example-mysql` in step one, then go to step two.
-
-###The basics
-
-Teaches the basics on models, connectors, datasources, automigration and
-discovery.
-
+1|[loopback-getting-started](https://github.com/strongloop/loopback-getting-started)|A basic demo on how to use LoopBack.|Complete
+2|[loopback-example-mongodb](https://github.com/strongloop/loopback-example-mongodb)<br>[loopback-example-mssql](https://github.com/strongloop/loopback-example-mssql)<br>[loopback-example-mysql](https://github.com/strongloop/loopback-example-mysql)<br>[loopback-example-postgresql](https://github.com/strongloop/loopback-example-postgresql)<br>[loopback-example-oracle](https://github.com/strongloop/loopback-example-oracle)| The basics on models, connectors, datasources, automigration and discovery. You only need to complete one of these 5 tutorials before moving onto the next step.|Complete
 
 ###Relations and filters
 
