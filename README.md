@@ -31,12 +31,6 @@ Status|Name|Description
 :-:|:--|:--
 Complete|[loopback-getting-started](https://github.com/strongloop/loopback-getting-started)|A basic demo on how to use LoopBack
 
-##Examples
-
-Status|Name|Description
-:-:|:--|:--
-Complete|[loopback-getting-started-intermediate](https://github.com/strongloop/loopback-getting-started-intermediate)|A full-stack example built off of `loopback-getting-started` used to demonstrate intermediate level features of LoopBack
-
 ##Tutorial series
 
 Each repository contains a complete application, along with step-by-step instructions to recreate it 
@@ -111,6 +105,12 @@ Example repositories for frequently-asked questions.
 - [loopback-faq-user-management](https://github.com/strongloop/loopback-faq-user-management)
 - [loopback-faq-model-relations](https://github.com/strongloop/loopback-faq-model-relations) - WIP
 - [loopback-faq-build-automation](https://github.com/strongloop/loopback-faq-build-automation) - WIP
+
+##Examples
+
+Status|Name|Description
+:-:|:--|:--
+Complete|[loopback-getting-started-intermediate](https://github.com/strongloop/loopback-getting-started-intermediate)|A full-stack example built off of `loopback-getting-started` used to demonstrate intermediate level features of LoopBack
 
 ##Examples
 
