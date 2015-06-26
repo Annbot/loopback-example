@@ -27,9 +27,9 @@ demo in any order.
 
 ##Tutorials
 
-Status|Name|Description
-:-:|:--|:--
-Complete|[loopback-getting-started](https://github.com/strongloop/loopback-getting-started)|A basic demo on how to use LoopBack
+Name|Description|Status
+:--|:--|:-:
+[loopback-getting-started](https://github.com/strongloop/loopback-getting-started)|A basic demo on how to use LoopBack|Complete
 
 ##Tutorial series
 
