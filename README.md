@@ -34,33 +34,20 @@ number 3.
 
 Order|Name|Description|Status
 :-:|:--|:--|:-:
-1|[loopback-getting-started](https://github.com/strongloop/loopback-getting-started)|A basic demo on how to use LoopBack.|Complete
-2|[loopback-example-mongodb](https://github.com/strongloop/loopback-example-mongodb)|The basics on models, connectors, datasources, automigration and discovery using MongoDB.|Complete
-2|[loopback-example-mssql](https://github.com/strongloop/loopback-example-mssql)|The basics on models, connectors, datasources, automigration and discovery using Microsoft SQL.|Complete
-2|[loopback-example-mysql](https://github.com/strongloop/loopback-example-mysql)|The basics on models, connectors, datasources, automigration and discovery using MySQL.|Complete
-2|[loopback-example-oracle](https://github.com/strongloop/loopback-example-oracle)|The basics on models, connectors, datasources, automigration and discovery using Oracle.|Complete
-2|[loopback-example-postgresql](https://github.com/strongloop/loopback-example-postgresql)|The basics on models, connectors, datasources, automigration and discovery using PostgreSQL.|Complete
-
-###Relations and filters
-
-Teaches the basics of model relations and basic filtering via REST.
-
-- [loopback-example-relations](https://github.com/strongloop/loopback-example-relations)
-
-###Adding application logic
-
-Teaches the basics of remote methods, remote hooks, model hooks, boot scripts, and middleware.
-
-- [loopback-example-app-logic](https://github.com/strongloop/loopback-example-app-logic)
-
-###Access control
-
-- [loopback-example-access-control](https://github.com/strongloop/loopback-example-access-control)
+1|[loopback-getting-started](https://github.com/strongloop/loopback-getting-started)|The basics of LoopBack.|Complete
+2|[loopback-example-mongodb](https://github.com/strongloop/loopback-example-mongodb)|LoopBack with MongoDB.|Complete
+2|[loopback-example-mssql](https://github.com/strongloop/loopback-example-mssql)|LoopBack with Microsoft SQL Server.|Complete
+2|[loopback-example-mysql](https://github.com/strongloop/loopback-example-mysql)|LoopBack with MySQL.|Complete
+2|[loopback-example-oracle](https://github.com/strongloop/loopback-example-oracle)|LoopBack with Oracle.|Complete
+2|[loopback-example-postgresql](https://github.com/strongloop/loopback-example-postgresql)|LoopBack with PostgreSQL.|Complete
+3|[loopback-example-relations](https://github.com/strongloop/loopback-example-relations)|Model relations and filtering via REST|Complete
+4|[loopback-example-app-logic](https://github.com/strongloop/loopback-example-app-logic)|How to add your own logic to a LoopBack app|Complete
+5|[loopback-example-access-control](https://github.com/strongloop/loopback-example-access-control)|Controlling access to your API endpoints
 
 ##Topic-specific examples
 
-You can follow these examples in any order since they are self-contained and specific
-to a particular topic.
+You can follow these examples in any order since they are self-contained and
+specific to a particular topic.
 
 |WIP|Name                                                                                        |Description                                                                           |
 |:-:|:-------------------------------------------------------------------------------------------|:-------------------------------------------------------------------------------------|
