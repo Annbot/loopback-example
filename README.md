@@ -32,9 +32,10 @@ order. Once you've done this, feel free to try [Topic Specific](#topic-specific)
 
 ##Intro
 
-Name|Description|Status
-:--|:--|:-:
-[loopback-getting-started](https://github.com/strongloop/loopback-getting-started)|A basic demo on how to use LoopBack|Complete
+Order|Name|Description|Status
+:-:|:--|:--|:-:
+1|[loopback-getting-started](https://github.com/strongloop/loopback-getting-started)|A basic demo on how to use LoopBack|Complete
+2|-1 -2|Complete
 
 ##Tutorial series
 
