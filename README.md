@@ -27,15 +27,19 @@ demo in any order.
 
 ##Tutorials
 
-We recommend going through the [Intro](#intro) tutorials in the prescribed
-order. Once you've done this, feel free to try [Topic Specific](#topic-specific) tutorials in any order.
+##Getting started
 
-##Intro
+>You only have to complete **ONE** step of number 2 tutorials before moving onto
+number 3.
 
 Order|Name|Description|Status
 :-:|:--|:--|:-:
 1|[loopback-getting-started](https://github.com/strongloop/loopback-getting-started)|A basic demo on how to use LoopBack.|Complete
-2|[loopback-example-mongodb](https://github.com/strongloop/loopback-example-mongodb)<br>[loopback-example-mssql](https://github.com/strongloop/loopback-example-mssql)<br>[loopback-example-mysql](https://github.com/strongloop/loopback-example-mysql)<br>[loopback-example-postgresql](https://github.com/strongloop/loopback-example-postgresql)<br>[loopback-example-oracle](https://github.com/strongloop/loopback-example-oracle)| The basics on models, connectors, datasources, automigration and discovery. You only need to complete one of these 5 tutorials before moving onto the next step.|Complete
+2|[loopback-example-mongodb](https://github.com/strongloop/loopback-example-mongodb)|The basics on models, connectors, datasources, automigration and discovery using MongoDB.|Complete
+2|[loopback-example-mssql](https://github.com/strongloop/loopback-example-mssql)|The basics on models, connectors, datasources, automigration and discovery using Microsoft SQL.|Complete
+2|[loopback-example-mysql](https://github.com/strongloop/loopback-example-mysql)|The basics on models, connectors, datasources, automigration and discovery using MySQL.|Complete
+2|[loopback-example-oracle](https://github.com/strongloop/loopback-example-oracle)|The basics on models, connectors, datasources, automigration and discovery using Oracle.|Complete
+2|[loopback-example-postgresql](https://github.com/strongloop/loopback-example-postgresql)|The basics on models, connectors, datasources, automigration and discovery using PostgreSQL.|Complete
 
 ###Relations and filters
 
