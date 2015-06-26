@@ -5,11 +5,12 @@ This is a [LoopBack][loopback] [demo](#terminology) list maintained by [StrongLo
 - [Overview](#overview)
 - [Terminology](#terminology)
 - [Tutorials](#tutorials)
-  - [FAQ](#faq-examples)
-  - [Community](#community-examples)
+  - [FAQ](#faq-tutorials)
+  - [Community](#community-tutorials)
+  - [Deprecated](#deprecated-tutorials)
 - [Examples](#examples)
   - [Community](#community-examples)
-- [Deprecated demos](#deprecated-examples)
+  - [Deprecated](#deprecated-examples)
 
 ##Overview
 
@@ -117,7 +118,7 @@ to a particular topic.
 - [Creating a LoopBack iOS app: part two](http://docs.strongloop.com/display/LB/Creating+a+LoopBack+iOS+app:+part+two)
 - [Push notifications](http://docs.strongloop.com/display/LB/Tutorial:+Push+notifications)
 
-##FAQ examples
+##FAQ Tutorials
 
 Example repositories for frequently-asked questions.
 
@@ -129,7 +130,9 @@ Example repositories for frequently-asked questions.
 - [loopback-faq-model-relations](https://github.com/strongloop/loopback-faq-model-relations) - WIP
 - [loopback-faq-build-automation](https://github.com/strongloop/loopback-faq-build-automation) - WIP
 
-##Community examples
+##Examples
+
+###Community examples
 
 These are examples contributed by the LoopBack community. Let us know if you have an example to
 contribute and we'll send you some swag in return for your efforts!
@@ -138,9 +141,9 @@ contribute and we'll send you some swag in return for your efforts!
 - [loopback-examples-ios](https://github.com/strongloop-community/loopback-examples-ios)
 - [loopback-example-user-organization](https://github.com/strongloop-community/loopback-example-user-organization)
 
-##Deprecated examples
+###Deprecated examples
 
-###LoopBack 1.x examples
+####LoopBack 1.x examples
 
 These examples have not been updated for LoopBack 2.x.
 
@@ -148,7 +151,7 @@ These examples have not been updated for LoopBack 2.x.
 - [sample-applications](https://github.com/strongloop-community/sample-applications)
 - [loopback-example-proxy](https://github.com/strongloop/loopback-example-proxy)
 
-### Other deprecated examples
+####Other deprecated examples
 
 These are either outdated or replaced with better examples.
 
