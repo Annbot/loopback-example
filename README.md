@@ -29,8 +29,8 @@ demo in any order.
 
 ##Getting started
 
->You only have to complete **ONE** step of number 2 tutorials before moving onto
-number 3.
+>You only have to complete **ONE** tutorial number 2 before moving onto tutorial
+number 3
 
 Order|Name|Description|Status
 :-:|:--|:--|:-:
