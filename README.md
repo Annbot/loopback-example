@@ -27,6 +27,11 @@ demo in any order.
 
 ##Tutorials
 
+We recommend going through the [Intro](#intro) tutorials in the prescribed
+order. Once you've done this, feel free to try [Topic Specific](#topic-specific) tutorials in any order.
+
+##Intro
+
 Name|Description|Status
 :--|:--|:-:
 [loopback-getting-started](https://github.com/strongloop/loopback-getting-started)|A basic demo on how to use LoopBack|Complete
