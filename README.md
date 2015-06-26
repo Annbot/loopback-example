@@ -31,6 +31,7 @@ These are terms and definitions used in all of our demos:
 Term|Definition
 :--|:--
 App|Short for "application", in most cases this means the current demo being viewed
+Docs|Short for "documentation", in most cases this refers to the (official documentation](http://docs.strongloop.com/display/LB/LoopBack)
 Demo|Short for "demonstration", examples and tutorials are both considered "demos"
 Deps|Short for "dependencies"
 Dir|Short for "directory"
