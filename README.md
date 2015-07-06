@@ -21,9 +21,9 @@ related to LoopBack. Before starting, make sure you:
 - Verify the demo does not exist in the [deprecated section](deprecated-demos)
 - Familiarize yourself with the [terminology](#terminology) we use in all demos
 
-We recommend you complete each ["Getting started" tutorial](#getting-started)
-tutorial in the prescribed order. After that, feel free to try our any other
-demo in any order.
+We recommend you complete each ["Getting started" tutorial](#getting-started) in
+the prescribed order. After that, feel free to try our any other demo in any
+order.
 
 ##Tutorials
 
