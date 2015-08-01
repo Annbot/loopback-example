@@ -14,20 +14,22 @@ This is a [LoopBack][loopback] [demo](#terminology) list maintained by [StrongLo
 
 ##Overview
 
-This README provides a complete reference for all demos
-related to LoopBack. Before starting, make sure you:
+This README provides a complete reference for all demo apps for LoopBack. Before starting, make sure you:
 
-- Verify the demo exists in one of our sections (if it's not in any section, then its not an official demo maintained by us)
-- Verify the demo does not exist in the [deprecated section](deprecated-demos)
 - Familiarize yourself with the [terminology](#terminology) we use in all demos
+- Complete each ["Getting started" tutorial](#getting-started) in the listed order
+- Try out any other demo in any order
 
-We recommend you complete each ["Getting started" tutorial](#getting-started) in
-the prescribed order. After that, feel free to try our any other demo in any
-order.
+###Before starting any demo
+
+Make sure:
+
+-  The demo is not [deprecated](deprecated-demos)
+-  The demo is listed in this README (otherwise we do not officially maintain it)
 
 ##Tutorials
 
-##Getting started
+###Getting started
 
 >You only have to complete **ONE** tutorial number 2 before moving onto tutorial
 number 3
@@ -44,7 +46,7 @@ Order|Name|Description|Status
 4|[loopback-example-app-logic](https://github.com/strongloop/loopback-example-app-logic)|How to add your own logic to a LoopBack app|Complete
 5|[loopback-example-access-control](https://github.com/strongloop/loopback-example-access-control)|Controlling access to your API endpoints
 
-##Topic-specific examples
+###Topic-specific examples
 
 You can follow these examples in any order since they are self-contained and
 specific to a particular topic.
@@ -133,7 +135,7 @@ These are either outdated or replaced with better examples.
 
 ##Terminology
 
-These are terms and definitions used in all of our demos:
+These are terms and definitions used in all demos:
 
 Term|Definition
 :--|:--
@@ -146,7 +148,7 @@ Doc|Short for "documentation", usually refers to [docs.strongloop.com](http://do
 Example|Source code and basic instructions on how to run the demo app, does not include step-by-step instructions
 |Info|Short for "information"
 |Repo|Short for "repository", in most cases it refers to a "GitHub" repository
-|Tutorial|Includes step-by-step instructions on how to build the demo app
+|Tutorial|Includes step-by-step instructions on how to build the example app
 |WIP|Short for "work in progress", meaning either some of the source code is missing or the instructions may not be complete
 
 [loopback]: https://strongloop.com/node-js/loopback-framework/
