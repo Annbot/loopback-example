@@ -15,7 +15,7 @@ This is a [LoopBack][loopback] example and tutorial list maintained by [StrongLo
 
 ##Overview
 
-This README provides a complete reference for all demo apps for LoopBack. Before starting, make sure you:
+This README provides a complete reference for all demo apps for LoopBack. Make sure you:
 
 - Familiarize yourself with the [terminology](#terminology) we use in all demos
 - Complete each ["Getting started" tutorial](#getting-started) in the listed order
