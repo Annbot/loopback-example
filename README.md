@@ -1,6 +1,6 @@
 #loopback-demo
 
-This is a [LoopBack][loopback] [demo](#terminology) list maintained by [StrongLoop][strongloop].
+This is a [LoopBack][loopback] example and tutorial list maintained by [StrongLoop][strongloop].
 
 - [Overview](#overview)
 - [Tutorials](#tutorials)
