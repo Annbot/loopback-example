@@ -4,6 +4,7 @@ This is a [LoopBack][loopback] [demo](#terminology) list maintained by [StrongLo
 
 - [Overview](#overview)
 - [Tutorials](#tutorials)
+  - [Getting started](#getting-started)
   - [FAQ](#faq-tutorials)
   - [Community](#community-tutorials)
   - [Deprecated](#deprecated-tutorials)
