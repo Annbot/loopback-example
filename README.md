@@ -6,7 +6,7 @@ This is a [LoopBack][loopback] [demo](#terminology) list maintained by [StrongLo
 - [Tutorials](#tutorials)
   - [Getting started](#getting-started)
   - [FAQ](#faq-tutorials)
-  - [Topic-specific](#topic-specific)
+  - [Topic-specific](#topic-specific-examples)
   - [Deprecated](#deprecated-tutorials)
 - [Examples](#examples)
   - [Community](#community-examples)
