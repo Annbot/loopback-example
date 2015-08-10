@@ -61,7 +61,8 @@ specific to a particular topic.
 |   |[loopback-example-angular](https://github.com/strongloop/loopback-example-angular)          |A simple todo list using AngularJS on the client side and LoopBack on the server side.|
 |   |[loopback-example-app](https://github.com/strongloop/loopback-example-app)                  |A full stack LoopBack application (iCars)                                             |
 |   |[loopback-example-boot-scripts](https://github.com/strongloop/loopback-example-boot-scripts)|How to use the LoopBack boot script generator                                         |
-|   |[loopback-example-isomorphic](https://github.com/strongloop/loopback-example-isomorphic)    |Using LoopBack on the client-side and server-side.                                    |
+|   |[loopback-example-isomorphic](https://github.com/strongloop/loopback-example-isomorphic)    |Using the LoopBack API on both client and server.                                    |
+|   |[loopback-example-mixins](https://github.com/strongloop/loopback-example-mixins)    | Loading mixins from  directories and modules and performing different actions like observing changes and adding model attributes.   
 |   |[loopback-example-pubsub](https://github.com/strongloop/loopback-example-pubsub)            |Example using strong-pubsub                                                                                      |
 |   |[loopback-example-offline-sync](https://github.com/strongloop/loopback-example-offline-sync)|Offline sync with Loopback                                                            |
 |   |[loopback-example-passport](https://github.com/strongloop/loopback-example-passport)        |PassportJS with Loopback                                                              |
