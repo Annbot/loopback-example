@@ -7,12 +7,12 @@ This is a [LoopBack][loopback] example and tutorial list maintained by [StrongLo
 - [Overview](#overview)
 - [Tutorials](#tutorials)
   - [Getting started](#getting-started)
-  - [FAQ](#faq-tutorials)
   - [Topic-specific](#topic-specific-examples)
+  - [FAQ](#faq-tutorials)
   - [Deprecated](#deprecated-tutorials)
 - [Examples](#examples)
   - [Community](#community-examples)
-  - [Deprecated](#deprecated-examples)
+- [Deprecated](#deprecated-examples)
 - [Terminology](#terminology)
 
 ##Overview
@@ -39,15 +39,16 @@ number 3
 
 |Order|Name|Description|
 |---|---|---|
-|1|[loopback-getting-started](https://github.com/strongloop/loopback-getting-started)|The basics of LoopBack.
-|2|[loopback-example-mongodb](https://github.com/strongloop/loopback-example-mongodb)|LoopBack with MongoDB.
-|2|[loopback-example-mssql](https://github.com/strongloop/loopback-example-mssql)|LoopBack with Microsoft SQL Server.
-|2|[loopback-example-mysql](https://github.com/strongloop/loopback-example-mysql)|LoopBack with MySQL.
-|2|[loopback-example-oracle](https://github.com/strongloop/loopback-example-oracle)|LoopBack with Oracle.
-|2|[loopback-example-postgresql](https://github.com/strongloop/loopback-example-postgresql)|LoopBack with PostgreSQL.
-|3|[loopback-example-relations](https://github.com/strongloop/loopback-example-relations)|Model relations and filtering via REST
-|4|[loopback-example-app-logic](https://github.com/strongloop/loopback-example-app-logic)|How to add your own logic to a LoopBack app
-|5|[loopback-example-access-control](https://github.com/strongloop/loopback-example-access-control)|Controlling access to your API endpoints
+|1|[loopback-getting-started](https://github.com/strongloop/loopback-getting-started)|The basics of LoopBack.  Follow along in [Getting started with LoopBack](http://docs.strongloop.com/display/LB/Getting+started+with+LoopBack) to build the example.|
+|2|[loopback-getting-started-intermediate](https://github.com/strongloop/loopback-getting-started-intermediate)| Full-stack example that builds on `loopback-getting-started` to demonstrate intermediate level features of LoopBack.  Follow instructions in [Getting started part II](http://docs.strongloop.com/display/LB/Getting+started+part+II) to build the example.|
+|3|[loopback-example-mongodb](https://github.com/strongloop/loopback-example-mongodb)|LoopBack with MongoDB.|
+|3|[loopback-example-mssql](https://github.com/strongloop/loopback-example-mssql)|LoopBack with Microsoft SQL Server.|
+|3|[loopback-example-mysql](https://github.com/strongloop/loopback-example-mysql)|LoopBack with MySQL.|
+|3|[loopback-example-oracle](https://github.com/strongloop/loopback-example-oracle)|LoopBack with Oracle.|
+|3|[loopback-example-postgresql](https://github.com/strongloop/loopback-example-postgresql)|LoopBack with PostgreSQL.|
+|4|[loopback-example-relations](https://github.com/strongloop/loopback-example-relations)|Model relations and filtering via REST|
+|5|[loopback-example-app-logic](https://github.com/strongloop/loopback-example-app-logic)|How to add your own logic to a LoopBack app|
+|6|[loopback-example-access-control](https://github.com/strongloop/loopback-example-access-control)|Controlling access to your API endpoints|
 
 ###Topic-specific examples
 
@@ -91,15 +92,7 @@ Example repositories for frequently-asked questions.
 - [loopback-faq-model-relations](https://github.com/strongloop/loopback-faq-model-relations) - WIP
 - [loopback-faq-build-automation](https://github.com/strongloop/loopback-faq-build-automation) - WIP
 
-##Examples
-
-Status|Name|Description
-:-:|:--|:--
-Complete|[loopback-getting-started-intermediate](https://github.com/strongloop/loopback-getting-started-intermediate)|A full-stack example built off of `loopback-getting-started` used to demonstrate intermediate level features of LoopBack
-
-##Examples
-
-###Community examples
+##Community examples
 
 These are examples contributed by the LoopBack community. Let us know if you have an example to
 contribute and we'll send you some swag in return for your efforts!
@@ -108,9 +101,9 @@ contribute and we'll send you some swag in return for your efforts!
 - [loopback-examples-ios](https://github.com/strongloop-community/loopback-examples-ios)
 - [loopback-example-user-organization](https://github.com/strongloop-community/loopback-example-user-organization)
 
-###Deprecated examples
+##Deprecated examples
 
-####LoopBack 1.x examples
+###LoopBack 1.x examples
 
 These examples have not been updated for LoopBack 2.x.
 
@@ -118,7 +111,7 @@ These examples have not been updated for LoopBack 2.x.
 - [sample-applications](https://github.com/strongloop-community/sample-applications)
 - [loopback-example-proxy](https://github.com/strongloop/loopback-example-proxy)
 
-####Other deprecated examples
+###Other deprecated examples
 
 These are either outdated or replaced with better examples.
 
