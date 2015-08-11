@@ -1,3 +1,7 @@
+```
+Check out our latest demo: https://github.com/strongloop/strong-gateway-demo
+```
+
 #loopback-demo
 
 This is a [LoopBack][loopback] example and tutorial list maintained by [StrongLoop][strongloop].
@@ -69,6 +73,7 @@ specific to a particular topic.
 | ✔ |[loopback-example-recipes](https://github.com/strongloop/loopback-example-recipes)          |                                                                                      |
 | ✔ |[loopback-example-remote](https://github.com/strongloop/loopback-example-remote)            |How to use the LoopBack remote connector                                              |
 |   |[loopback-example-ssl](https://github.com/strongloop/loopback-example-ssl)                  |SSL with LoopBack   
+|   |[strong-gatway-demo](https://github.com/strongloop/strong-gateway-demo)                     |OAuth2 with StrongLoop API Gateway
 
 **Examples on docs.strongloop.com**:
 
