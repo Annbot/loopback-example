@@ -9,7 +9,6 @@ This is a [LoopBack][loopback] example and tutorial list maintained by [StrongLo
   - [Getting started](#getting-started)
   - [Topic-specific](#topic-specific-examples)
   - [FAQ](#faq-tutorials)
-  - [Deprecated](#deprecated-tutorials)
 - [Examples](#examples)
   - [Community](#community-examples)
 - [Deprecated](#deprecated-examples)
