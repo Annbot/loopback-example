@@ -1,6 +1,4 @@
-```
-Check out our latest demo: https://github.com/strongloop/strong-gateway-demo
-```
+**Check out our latest demo:** https://github.com/strongloop/strong-gateway-demo
 
 #loopback-demo
 
