@@ -37,41 +37,41 @@ Make sure:
 >You only have to complete **ONE** tutorial number 2 before moving onto tutorial
 number 3
 
-Order|Name|Description|Status
-:-:|:--|:--|:-:
-1|[loopback-getting-started](https://github.com/strongloop/loopback-getting-started)|The basics of LoopBack.|Complete
-2|[loopback-example-mongodb](https://github.com/strongloop/loopback-example-mongodb)|LoopBack with MongoDB.|Complete
-2|[loopback-example-mssql](https://github.com/strongloop/loopback-example-mssql)|LoopBack with Microsoft SQL Server.|Complete
-2|[loopback-example-mysql](https://github.com/strongloop/loopback-example-mysql)|LoopBack with MySQL.|Complete
-2|[loopback-example-oracle](https://github.com/strongloop/loopback-example-oracle)|LoopBack with Oracle.|Complete
-2|[loopback-example-postgresql](https://github.com/strongloop/loopback-example-postgresql)|LoopBack with PostgreSQL.|Complete
-3|[loopback-example-relations](https://github.com/strongloop/loopback-example-relations)|Model relations and filtering via REST|Complete
-4|[loopback-example-app-logic](https://github.com/strongloop/loopback-example-app-logic)|How to add your own logic to a LoopBack app|Complete
-5|[loopback-example-access-control](https://github.com/strongloop/loopback-example-access-control)|Controlling access to your API endpoints|Complete
+|Order|Name|Description|
+|---|---|---|
+|1|[loopback-getting-started](https://github.com/strongloop/loopback-getting-started)|The basics of LoopBack.
+|2|[loopback-example-mongodb](https://github.com/strongloop/loopback-example-mongodb)|LoopBack with MongoDB.
+|2|[loopback-example-mssql](https://github.com/strongloop/loopback-example-mssql)|LoopBack with Microsoft SQL Server.
+|2|[loopback-example-mysql](https://github.com/strongloop/loopback-example-mysql)|LoopBack with MySQL.
+|2|[loopback-example-oracle](https://github.com/strongloop/loopback-example-oracle)|LoopBack with Oracle.
+|2|[loopback-example-postgresql](https://github.com/strongloop/loopback-example-postgresql)|LoopBack with PostgreSQL.
+|3|[loopback-example-relations](https://github.com/strongloop/loopback-example-relations)|Model relations and filtering via REST
+|4|[loopback-example-app-logic](https://github.com/strongloop/loopback-example-app-logic)|How to add your own logic to a LoopBack app
+|5|[loopback-example-access-control](https://github.com/strongloop/loopback-example-access-control)|Controlling access to your API endpoints
 
 ###Topic-specific examples
 
 You can follow these examples in any order since they are self-contained and
 specific to a particular topic.
 
-|WIP|Name                                                                                        |Description                                                                           |
-|:-:|:-------------------------------------------------------------------------------------------|:-------------------------------------------------------------------------------------|
-|  |[loopback-android-getting-started](https://github.com/strongloop/loopback-android-getting-started)            |How to use the LoopBack Android SDK |
-|   |[loopback-component-push](https://github.com/strongloop/loopback-component-push)            |LoopBack 2.x examples available in the `examples` dir                                 |
-|   |[loopback-component-storage](https://github.com/strongloop/loopback-component-storage)      |LoopBack 2.0 examples available in the `examples` dir                                 |
-|   |[loopback-example-APIClientApp](https://github.com/strongloop/loopback-example-apiclientapp)|iOS client example                                                                                      |
-|   |[loopback-example-angular](https://github.com/strongloop/loopback-example-angular)          |A simple todo list using AngularJS on the client side and LoopBack on the server side.|
-|   |[loopback-example-app](https://github.com/strongloop/loopback-example-app)                  |A full stack LoopBack application (iCars)                                             |
-|   |[loopback-example-boot-scripts](https://github.com/strongloop/loopback-example-boot-scripts)|How to use the LoopBack boot script generator                                         |
-|   |[loopback-example-isomorphic](https://github.com/strongloop/loopback-example-isomorphic)    |Using the LoopBack API on both client and server.                                    |
-|   |[loopback-example-mixins](https://github.com/strongloop/loopback-example-mixins)    | Loading mixins from  directories and modules and performing different actions like observing changes and adding model attributes.   
-|   |[loopback-example-pubsub](https://github.com/strongloop/loopback-example-pubsub)            |Example using strong-pubsub                                                                                      |
-|   |[loopback-example-offline-sync](https://github.com/strongloop/loopback-example-offline-sync)|Offline sync with Loopback                                                            |
-|   |[loopback-example-passport](https://github.com/strongloop/loopback-example-passport)        |PassportJS with Loopback                                                              |
-| ✔ |[loopback-example-recipes](https://github.com/strongloop/loopback-example-recipes)          |                                                                                      |
-| ✔ |[loopback-example-remote](https://github.com/strongloop/loopback-example-remote)            |How to use the LoopBack remote connector                                              |
-|   |[loopback-example-ssl](https://github.com/strongloop/loopback-example-ssl)                  |SSL with LoopBack   
-|   |[strong-gatway-demo](https://github.com/strongloop/strong-gateway-demo)                     |OAuth2 with StrongLoop API Gateway
+|Name   |Description  |
+|---|---|
+|[loopback-android-getting-started](https://github.com/strongloop/loopback-android-getting-started)            |How to use the LoopBack Android SDK |
+|[loopback-component-push](https://github.com/strongloop/loopback-component-push)  |LoopBack 2.x examples are in the `examples` directory. |
+|[loopback-component-storage](https://github.com/strongloop/loopback-component-storage) |LoopBack 2.0 examples are in the `examples` directory.  |
+|[loopback-example-APIClientApp](https://github.com/strongloop/loopback-example-apiclientapp)|iOS client example|
+|[loopback-example-angular](https://github.com/strongloop/loopback-example-angular) |A simple "to do" list using AngularJS on the client and LoopBack on the server.|
+|[loopback-example-app](https://github.com/strongloop/loopback-example-app)  |A full-stack LoopBack application (iCars).|
+|[loopback-example-boot-scripts](https://github.com/strongloop/loopback-example-boot-scripts)|How to use the LoopBack boot script generator. |
+|[loopback-example-isomorphic](https://github.com/strongloop/loopback-example-isomorphic)    |Using the LoopBack API on both client and server.|
+|[loopback-example-mixins](https://github.com/strongloop/loopback-example-mixins) | Loading mixins from  directories and modules and performing different actions like observing changes and adding model attributes.   
+|[loopback-example-pubsub](https://github.com/strongloop/loopback-example-pubsub) |Example using strong-pubsub |
+|[loopback-example-offline-sync](https://github.com/strongloop/loopback-example-offline-sync)|Offline sync with Loopback |
+|[loopback-example-passport](https://github.com/strongloop/loopback-example-passport) |PassportJS with Loopback  |
+|[loopback-example-recipes](https://github.com/strongloop/loopback-example-recipes)  | Sample recipes  demonstrating LoopBack use patterns.  **NOTE**: Work-in-progress   |
+|[loopback-example-remote](https://github.com/strongloop/loopback-example-remote) |How to use the LoopBack remote connector.  **NOTE**: Work-in-progress  |
+|[loopback-example-ssl](https://github.com/strongloop/loopback-example-ssl)  |SSL with LoopBack   
+|[strong-gatway-demo](https://github.com/strongloop/strong-gateway-demo) |OAuth2 with StrongLoop API Gateway
 
 **Examples on docs.strongloop.com**:
 
