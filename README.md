@@ -54,7 +54,7 @@ number 3
 You can follow these examples in any order since they are self-contained and
 specific to a particular topic.
 
-|Name   |Description  |
+|Name&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|Description  |
 |---|---|
 |[loopback-android-getting-started](https://github.com/strongloop/loopback-android-getting-started)            |How to use the LoopBack Android SDK |
 |[loopback-component-push](https://github.com/strongloop/loopback-component-push)  |LoopBack 2.x examples are in the `examples` directory. |
