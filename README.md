@@ -47,7 +47,7 @@ Order|Name|Description|Status
 2|[loopback-example-postgresql](https://github.com/strongloop/loopback-example-postgresql)|LoopBack with PostgreSQL.|Complete
 3|[loopback-example-relations](https://github.com/strongloop/loopback-example-relations)|Model relations and filtering via REST|Complete
 4|[loopback-example-app-logic](https://github.com/strongloop/loopback-example-app-logic)|How to add your own logic to a LoopBack app|Complete
-5|[loopback-example-access-control](https://github.com/strongloop/loopback-example-access-control)|Controlling access to your API endpoints
+5|[loopback-example-access-control](https://github.com/strongloop/loopback-example-access-control)|Controlling access to your API endpoints|Complete
 
 ###Topic-specific examples
 
