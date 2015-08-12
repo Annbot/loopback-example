@@ -36,7 +36,7 @@ Make sure:
 >You only have to complete **ONE** tutorial number 2 before moving onto tutorial
 number 3
 
-|Order|Name|Description|
+|Order|Name&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|Description|
 |---|---|---|
 |1|[loopback-getting-started](https://github.com/strongloop/loopback-getting-started)|The basics of LoopBack.  Follow along in [Getting started with LoopBack](http://docs.strongloop.com/display/LB/Getting+started+with+LoopBack) to build the example.|
 |2|[loopback-getting-started-intermediate](https://github.com/strongloop/loopback-getting-started-intermediate)| Full-stack example that builds on `loopback-getting-started` to demonstrate intermediate level features of LoopBack.  Follow instructions in [Getting started part II](http://docs.strongloop.com/display/LB/Getting+started+part+II) to build the example.|
