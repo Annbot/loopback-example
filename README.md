@@ -118,7 +118,7 @@ These are either outdated or replaced with better examples.
 - [loopback-example-coffee-shop](https://github.com/strongloop/loopback-example-coffee-shop) replaced with [loopback-getting-started-intermediate](http://github.com/strongloop/loopback-getting-started-intermediate)
 - [loopback-example-customAPI](https://github.com/strongloop/loopback-example-customAPI) replaced with [loopback-getting-started](http://github.com/strongloop/loopback-getting-started)
 - [loopback-example-full-stack](https://github.com/strongloop/loopback-example-full-stack) renamed to [loobpack-example-offline-sync](https://github.com/strongloop/loopback-example-offline-sync)
-- [loopback-example-datasourceAPI](https://github.com/strongloop/loopback-example-datasourceAPI) replaced with [loopback-getting-started](http://github.com/strongloop/getting-started)
+- [loopback-example-datasourceAPI](https://github.com/strongloop/loopback-example-datasourceAPI) replaced with [loopback-getting-started](http://github.com/strongloop/loopback-getting-started)
 - [loopback-example-database](https://github.com/strongloop/loopback-example-database) replaced with 5 separate repos:
     - [loopback-example-mongodb](https://github.com/strongloop/loopback-example-mongodb)
     - [loopback-example-mssql](https://github.com/strongloop/loopback-example-mssql)
