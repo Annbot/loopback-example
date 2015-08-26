@@ -102,22 +102,11 @@ contribute and we'll send you some swag in return for your efforts!
 
 ##Deprecated examples
 
-###LoopBack 1.x examples
-
-These examples have not been updated for LoopBack 2.x.
-
-- [loopback-component-example-office-supplies](https://github.com/strongloop/loopback-example-office-supplies)
-- [sample-applications](https://github.com/strongloop-community/sample-applications)
-- [loopback-example-proxy](https://github.com/strongloop/loopback-example-proxy)
-
-###Other deprecated examples
-
-These are either outdated or replaced with better examples.
-
-- [loopback-example-database](https://github.com/strongloop/loopback-example-database) replaced with 5 separate repos:
+- [loopback-example-database](https://github.com/strongloop/loopback-example-database) was replaced with 5 separate repos:
     - [loopback-example-mongodb](https://github.com/strongloop/loopback-example-mongodb)
     - [loopback-example-mssql](https://github.com/strongloop/loopback-example-mssql)
     - [loopback-example-mysql](https://github.com/strongloop/loopback-example-mysql)
     - [loopback-example-postgresql](https://github.com/strongloop/loopback-example-postgresql)
     - [loopback-example-oracle](https://github.com/strongloop/loopback-example-oracle)
 
+However, per https://github.com/strongloop-internal/scrum-loopback/issues/468, we are going to merge these back into [loopback-example-database](https://github.com/strongloop/loopback-example-database) to make them easier to maintain.
