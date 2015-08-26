@@ -1,37 +1,21 @@
 **Check out our latest demo:** https://github.com/strongloop/strong-gateway-demo
 
-#loopback-demo
-
-This is a [LoopBack][loopback] example and tutorial list maintained by [StrongLoop][strongloop].
-
 - [Overview](#overview)
 - [Tutorials](#tutorials)
-  - [Getting started](#getting-started)
-  - [Topic-specific](#topic-specific-examples)
-  - [FAQ](#faq-tutorials)
-- [Examples](#examples)
-  - [Community](#community-examples)
-- [Deprecated](#deprecated-examples)
-- [Terminology](#terminology)
+- [Topic-specific](#topic-specific-examples)
+- [Community examples](#community-examples)
+- [Deprecated examples](#deprecated-examples)
 
 ##Overview
 
-This README provides a complete reference for all demo apps for LoopBack. Make sure you:
+This README provides a complete reference for all LoopBack example apps and tutorials. 
+You can complete each [tutorial](#tutorials) in the listed order.
 
-- Familiarize yourself with the [terminology](#terminology) we use in all demos
-- Complete each ["Getting started" tutorial](#getting-started) in the listed order
-- Try out any other demo in any order
-
-###Before starting any demo
-
-Make sure:
-
--  The demo is not [deprecated](deprecated-demos)
--  The demo is listed in this README (otherwise we do not officially maintain it)
+Refer to the remaining [topic-specific examples](#topic-specific-examples) as needed in any order.
 
 ##Tutorials
 
-###Getting started
+In general, these tutorials are intended to be followed in order.
 
 >You only have to complete **ONE** tutorial number 3 before moving onto tutorial
 number 4
@@ -49,7 +33,7 @@ number 4
 |5|[loopback-example-app-logic](https://github.com/strongloop/loopback-example-app-logic)|How to add your own logic to a LoopBack app|
 |6|[loopback-example-access-control](https://github.com/strongloop/loopback-example-access-control)|Controlling access to your API endpoints|
 
-###Topic-specific examples
+## Topic-specific examples
 
 You can follow these examples in any order since they are self-contained and
 specific to a particular topic.
@@ -70,26 +54,18 @@ specific to a particular topic.
 |[loopback-example-passport](https://github.com/strongloop/loopback-example-passport) |PassportJS with Loopback  |
 |[loopback-example-recipes](https://github.com/strongloop/loopback-example-recipes)  | Sample recipes  demonstrating LoopBack use patterns.  **NOTE**: Work-in-progress   |
 |[loopback-example-remote](https://github.com/strongloop/loopback-example-remote) |How to use the LoopBack remote connector.  **NOTE**: Work-in-progress  |
-|[loopback-example-ssl](https://github.com/strongloop/loopback-example-ssl)  |SSL with LoopBack   
-|[strong-gatway-demo](https://github.com/strongloop/strong-gateway-demo) |OAuth2 with StrongLoop API Gateway
+|[loopback-example-ssl](https://github.com/strongloop/loopback-example-ssl)  |SSL with LoopBack   |
+|[strong-gatway-demo](https://github.com/strongloop/strong-gateway-demo) |OAuth2 with StrongLoop API Gateway|
+| [loopback-faq-email](https://github.com/strongloop/loopback-faq-email)| Sending email from a LoopBack app.|
+| [loopback-faq-middleware](https://github.com/strongloop/loopback-faq-middleware)| Using middleware.|
+| [loopback-faq-operation-hooks](https://github.com/strongloop/loopback-faq-operation-hooks)| Using operation hooks.|
+| [loopback-faq-rest-connector](https://github.com/strongloop/loopback-faq-rest-connector)| Basic use of loopback-connector-rest.|
+| [loopback-faq-user-management](https://github.com/strongloop/loopback-faq-user-management) | How to register, log in / log out, and verify users; how to reset a user's password.|
+| [loopback-faq-model-relations](https://github.com/strongloop/loopback-faq-model-relations) | Using model relations. **Work in progress**|
 
-**Examples on docs.strongloop.com**:
+### Additional documentation tutorials
 
-- [Creating a LoopBack iOS app: part one](http://docs.strongloop.com/display/LB/Creating+a+LoopBack+iOS+app:+part+one)
-- [Creating a LoopBack iOS app: part two](http://docs.strongloop.com/display/LB/Creating+a+LoopBack+iOS+app:+part+two)
 - [Push notifications](http://docs.strongloop.com/display/LB/Tutorial:+Push+notifications)
-
-##FAQ Tutorials
-
-Example repositories for frequently-asked questions.
-
-- [loopback-faq-email](https://github.com/strongloop/loopback-faq-email)
-- [loopback-faq-middleware](https://github.com/strongloop/loopback-faq-middleware)
-- [loopback-faq-operation-hooks](https://github.com/strongloop/loopback-faq-operation-hooks)
-- [loopback-faq-rest-connector](https://github.com/strongloop/loopback-faq-rest-connector)
-- [loopback-faq-user-management](https://github.com/strongloop/loopback-faq-user-management)
-- [loopback-faq-model-relations](https://github.com/strongloop/loopback-faq-model-relations) - WIP
-- [loopback-faq-build-automation](https://github.com/strongloop/loopback-faq-build-automation) - WIP
 
 ##Community examples
 
