@@ -2,7 +2,7 @@
 
 - [Overview](#overview)
 - [Tutorials](#tutorials)
-- [Topic-specific](#topic-specific-examples)
+- [Topic-specific examples](#topic-specific-examples)
 - [Community examples](#community-examples)
 - [Deprecated examples](#deprecated-examples)
 
