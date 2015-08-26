@@ -55,7 +55,7 @@ specific to a particular topic.
 |[loopback-example-recipes](https://github.com/strongloop/loopback-example-recipes)  | Sample recipes  demonstrating LoopBack use patterns.  **NOTE**: Work-in-progress   |
 |[loopback-example-remote](https://github.com/strongloop/loopback-example-remote) |How to use the LoopBack remote connector.  **NOTE**: Work-in-progress  |
 |[loopback-example-ssl](https://github.com/strongloop/loopback-example-ssl)  |SSL with LoopBack   |
-|[strong-gatway-demo](https://github.com/strongloop/strong-gateway-demo) |OAuth2 with StrongLoop API Gateway|
+|[strong-gateway-demo](https://github.com/strongloop/strong-gateway-demo) |OAuth2 with StrongLoop API Gateway|
 | [loopback-faq-email](https://github.com/strongloop/loopback-faq-email)| Sending email from a LoopBack app.|
 | [loopback-faq-middleware](https://github.com/strongloop/loopback-faq-middleware)| Using middleware.|
 | [loopback-faq-operation-hooks](https://github.com/strongloop/loopback-faq-operation-hooks)| Using operation hooks.|
