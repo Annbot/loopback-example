@@ -46,7 +46,6 @@ specific to a particular topic.
 |[loopback-example-APIClientApp](https://github.com/strongloop/loopback-example-apiclientapp)|iOS client example|
 |[loopback-example-angular](https://github.com/strongloop/loopback-example-angular) |A simple "to do" list using AngularJS on the client and LoopBack on the server.|
 |[loopback-example-app](https://github.com/strongloop/loopback-example-app)  |A full-stack LoopBack application (iCars).|
-|[loopback-example-boot-scripts](https://github.com/strongloop/loopback-example-boot-scripts)|How to use the LoopBack boot script generator. |
 |[loopback-example-isomorphic](https://github.com/strongloop/loopback-example-isomorphic)    |Using the LoopBack API on both client and server.|
 |[loopback-example-mixins](https://github.com/strongloop/loopback-example-mixins) | Loading mixins from  directories and modules and performing different actions like observing changes and adding model attributes.   
 |[loopback-example-pubsub](https://github.com/strongloop/loopback-example-pubsub) |Example using strong-pubsub |
