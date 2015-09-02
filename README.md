@@ -41,8 +41,8 @@ specific to a particular topic.
 |Name&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|Description  |
 |---|---|
 |[loopback-android-getting-started](https://github.com/strongloop/loopback-android-getting-started)            |How to use the LoopBack Android SDK |
-|[loopback-component-push](https://github.com/strongloop/loopback-component-push)  |LoopBack 2.x examples are in the `examples` directory. |
-|[loopback-component-storage](https://github.com/strongloop/loopback-component-storage) |LoopBack 2.0 examples are in the `examples` directory.  |
+|[loopback-component-push](https://github.com/strongloop/loopback-component-push/tree/master/example/server-2.0)  |LoopBack 2.x examples are in the `example/serve-2.0` directory. |
+|[loopback-component-storage](https://github.com/strongloop/loopback-component-storage/tree/master/example-2.0) |LoopBack 2.0 examples are in the `example-2.0` directory.  |
 |[loopback-example-APIClientApp](https://github.com/strongloop/loopback-example-apiclientapp)|iOS client example|
 |[loopback-example-angular](https://github.com/strongloop/loopback-example-angular) |A simple "to do" list using AngularJS on the client and LoopBack on the server.|
 |[loopback-example-app](https://github.com/strongloop/loopback-example-app)  |A full-stack LoopBack application (iCars).|
