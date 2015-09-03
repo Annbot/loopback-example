@@ -38,7 +38,7 @@ number 4
 You can follow these examples in any order since they are self-contained and
 specific to a particular topic.
 
-|Name&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|Description  |
+|Name&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|Description  |
 |---|---|
 |[loopback-android-getting-started](https://github.com/strongloop/loopback-android-getting-started)            |How to use the LoopBack Android SDK |
 |[loopback-component-push](https://github.com/strongloop/loopback-component-push/tree/master/example/server-2.0)  |LoopBack 2.x examples are in the `example/serve-2.0` directory. |
@@ -54,12 +54,12 @@ specific to a particular topic.
 |[loopback-example-recipes](https://github.com/strongloop/loopback-example-recipes)  | Sample recipes  demonstrating LoopBack use patterns.  **NOTE**: Work-in-progress   |
 |[loopback-example-remote](https://github.com/strongloop/loopback-example-remote) |How to use the LoopBack remote connector.  **NOTE**: Work-in-progress  |
 |[loopback-example-ssl](https://github.com/strongloop/loopback-example-ssl)  |SSL with LoopBack   |
+| [loopback-example-embedded-relations](https://github.com/strongloop/loopback-example-embedded-relations) | Using embedded model relations. |
 | [loopback-faq-email](https://github.com/strongloop/loopback-faq-email)| Sending email from a LoopBack app.|
 | [loopback-faq-middleware](https://github.com/strongloop/loopback-faq-middleware)| Using middleware.|
 | [loopback-faq-operation-hooks](https://github.com/strongloop/loopback-faq-operation-hooks)| Using operation hooks.|
 | [loopback-faq-rest-connector](https://github.com/strongloop/loopback-faq-rest-connector)| Basic use of loopback-connector-rest.|
 | [loopback-faq-user-management](https://github.com/strongloop/loopback-faq-user-management) | How to register, log in / log out, and verify users; how to reset a user's password.|
-| [loopback-faq-model-relations](https://github.com/strongloop/loopback-faq-model-relations) | Using model relations. **Work in progress**|
 |[strong-gateway-demo](https://github.com/strongloop/strong-gateway-demo) |OAuth2 with StrongLoop API Gateway|
 
 
