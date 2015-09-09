@@ -1,5 +1,3 @@
-**Check out our latest demo:** https://github.com/strongloop/strong-gateway-demo
-
 - [Overview](#overview)
 - [Tutorials](#tutorials)
 - [Topic-specific examples](#topic-specific-examples)
