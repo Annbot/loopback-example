@@ -54,7 +54,10 @@ specific to a particular topic.
 |[loopback-example-recipes](https://github.com/strongloop/loopback-example-recipes)  | Sample recipes  demonstrating LoopBack use patterns.  **NOTE**: Work-in-progress   |
 |[loopback-example-remote](https://github.com/strongloop/loopback-example-remote) |How to use the LoopBack remote connector.  **NOTE**: Work-in-progress  |
 |[loopback-example-ssl](https://github.com/strongloop/loopback-example-ssl)  |SSL with LoopBack   |
+| [loopback-example-xamarin](https://github.com/strongloop/loopback-example-xamarin) | Using Xamarin SDK |
+| [angular-live-set-example](https://github.com/strongloop/angular-live-set-example) | Example of realtime LoopBack/AngularJS app using HTML5 server-sent events. |
 | [loopback-example-embedded-relations](https://github.com/strongloop/loopback-example-embedded-relations) | Using embedded model relations. |
+| [loopback-example-file-storage](https://github.com/strongloop/loopback-example-file-storage) | Storing and retrieving files using loopback-component-storage. |
 | [loopback-faq-email](https://github.com/strongloop/loopback-faq-email)| Sending email from a LoopBack app.|
 | [loopback-faq-middleware](https://github.com/strongloop/loopback-faq-middleware)| Using middleware.|
 | [loopback-faq-operation-hooks](https://github.com/strongloop/loopback-faq-operation-hooks)| Using operation hooks.|
