@@ -56,11 +56,11 @@ specific to a particular topic.
 | [angular-live-set-example](https://github.com/strongloop/angular-live-set-example) | Example of realtime LoopBack/AngularJS app using HTML5 server-sent events. |
 | [loopback-example-embedded-relations](https://github.com/strongloop/loopback-example-embedded-relations) | Using embedded model relations. |
 | [loopback-example-file-storage](https://github.com/strongloop/loopback-example-file-storage) | Storing and retrieving files using loopback-component-storage. |
-| [loopback-faq-email](https://github.com/strongloop/loopback-faq-email)| Sending email from a LoopBack app.|
-| [loopback-faq-middleware](https://github.com/strongloop/loopback-faq-middleware)| Using middleware.|
-| [loopback-faq-operation-hooks](https://github.com/strongloop/loopback-faq-operation-hooks)| Using operation hooks.|
-| [loopback-faq-rest-connector](https://github.com/strongloop/loopback-faq-rest-connector)| Basic use of loopback-connector-rest.|
-| [loopback-faq-user-management](https://github.com/strongloop/loopback-faq-user-management) | How to register, log in / log out, and verify users; how to reset a user's password.|
+| [loopback-example-email](https://github.com/strongloop/loopback-example-email)| Sending email from a LoopBack app.|
+| [loopback-example-middleware](https://github.com/strongloop/loopback-example-middleware)| Using middleware.|
+| [loopback-example-operation-hooks](https://github.com/strongloop/loopback-example-operation-hooks)| Using operation hooks.|
+| [loopback-example-rest-connector](https://github.com/strongloop/loopback-example-rest-connector)| Basic use of loopback-connector-rest.|
+| [loopback-example-user-management](https://github.com/strongloop/loopback-example-user-management) | How to register, log in / log out, and verify users; how to reset a user's password.|
 |[strong-gateway-demo](https://github.com/strongloop/strong-gateway-demo) |OAuth2 with StrongLoop API Gateway|
 
 
