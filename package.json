@@ -3,9 +3,6 @@
   "version": "1.0.0",
   "description": "A list of LoopBack examples maintained by StrongLoop",
   "main": "index.js",
-  "scripts": {
-    "test": "tape test/**/*.js"
-  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/strongloop/loopback-example.git"
