@@ -38,13 +38,9 @@ specific to a particular topic.
 
 |Name&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|Description  |
 |---|---|
-|[loopback-android-getting-started](https://github.com/strongloop/loopback-android-getting-started)            |How to use the LoopBack Android SDK |
 |[loopback-component-push](https://github.com/strongloop/loopback-component-push/tree/master/example/server-2.0)  |LoopBack 2.x examples are in the `example/serve-2.0` directory. |
 |[loopback-component-storage](https://github.com/strongloop/loopback-component-storage/tree/master/example-2.0) |LoopBack 2.0 examples are in the `example-2.0` directory.  |
-|[loopback-example-APIClientApp](https://github.com/strongloop/loopback-example-apiclientapp)|iOS client example|
-|[loopback-example-angular](https://github.com/strongloop/loopback-example-angular) |A simple "to do" list using AngularJS on the client and LoopBack on the server.|
 |[loopback-example-app](https://github.com/strongloop/loopback-example-app)  |A full-stack LoopBack application (iCars).|
-|[loopback-example-isomorphic](https://github.com/strongloop/loopback-example-isomorphic)    |Using the LoopBack API on both client and server.|
 |[loopback-example-mixins](https://github.com/strongloop/loopback-example-mixins) | Loading mixins from  directories and modules and performing different actions like observing changes and adding model attributes.   
 |[loopback-example-pubsub](https://github.com/strongloop/loopback-example-pubsub) |Example using strong-pubsub |
 |[loopback-example-offline-sync](https://github.com/strongloop/loopback-example-offline-sync)|Offline sync with Loopback |
@@ -63,6 +59,16 @@ specific to a particular topic.
 | [loopback-example-user-management](https://github.com/strongloop/loopback-example-user-management) | How to register, log in / log out, and verify users; how to reset a user's password.|
 |[strong-gateway-demo](https://github.com/strongloop/strong-gateway-demo) |OAuth2 with StrongLoop API Gateway|
 
+
+### Client SDK examples
+
+|Name&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|Description  |
+|---|---|
+|[loopback-android-getting-started](https://github.com/strongloop/loopback-android-getting-started)            |How to use the LoopBack Android SDK |
+|[loopback-ios-getting-started](https://github.com/strongloop/loopback-ios-getting-started)            |How to use the LoopBack Android SDK |
+|[loopback-example-APIClientApp](https://github.com/strongloop/loopback-example-apiclientapp)|iOS client example|
+|[loopback-example-angular](https://github.com/strongloop/loopback-example-angular) |A simple "to do" list using AngularJS on the client and LoopBack on the server.|
+|[loopback-example-isomorphic](https://github.com/strongloop/loopback-example-isomorphic)    |Using the LoopBack API on both client and server.|
 
 ### Additional documentation tutorials
 
