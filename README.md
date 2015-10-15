@@ -45,7 +45,6 @@ specific to a particular topic.
 |[loopback-example-pubsub](https://github.com/strongloop/loopback-example-pubsub) |Example using strong-pubsub |
 |[loopback-example-offline-sync](https://github.com/strongloop/loopback-example-offline-sync)|Offline sync with Loopback |
 |[loopback-example-passport](https://github.com/strongloop/loopback-example-passport) |PassportJS with Loopback  |
-|[loopback-example-recipes](https://github.com/strongloop/loopback-example-recipes)  | Sample recipes  demonstrating LoopBack use patterns.  **NOTE**: Work-in-progress   |
 |[loopback-example-remote](https://github.com/strongloop/loopback-example-remote) |How to use the LoopBack remote connector.  **NOTE**: Work-in-progress  |
 |[loopback-example-ssl](https://github.com/strongloop/loopback-example-ssl)  |SSL with LoopBack   |
 | [angular-live-set-example](https://github.com/strongloop/angular-live-set-example) | Example of realtime LoopBack/AngularJS app using HTML5 server-sent events. |
