@@ -64,7 +64,6 @@ specific to a particular topic.
 |---|---|
 |[loopback-android-getting-started](https://github.com/strongloop/loopback-android-getting-started)            |How to use the LoopBack Android SDK |
 |[loopback-ios-getting-started](https://github.com/strongloop/loopback-ios-getting-started)            |How to use the LoopBack iOS SDK |
-|[loopback-example-APIClientApp](https://github.com/strongloop/loopback-example-apiclientapp)|iOS client example|
 |[loopback-example-angular](https://github.com/strongloop/loopback-example-angular) |A simple "to do" list using AngularJS on the client and LoopBack on the server.|
 |[loopback-example-isomorphic](https://github.com/strongloop/loopback-example-isomorphic)    |Using the LoopBack API on both client and server.|
 | [loopback-example-xamarin](https://github.com/strongloop/loopback-example-xamarin) | Using Xamarin SDK |
