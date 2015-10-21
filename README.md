@@ -1,6 +1,8 @@
 - [Overview](#overview)
 - [Tutorials](#tutorials)
+- [General examples](#general-examples)
 - [Topic-specific examples](#topic-specific-examples)
+- [Connector examples](#connector-examples)
 - [Community examples](#community-examples)
 - [Deprecated examples](#deprecated-examples)
 
