@@ -31,6 +31,13 @@ number 4
 |5|[loopback-example-app-logic](https://github.com/strongloop/loopback-example-app-logic)|How to add your own logic to a LoopBack app|
 |6|[loopback-example-access-control](https://github.com/strongloop/loopback-example-access-control)|Controlling access to your API endpoints|
 
+## General examples
+
+|Name&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|Description  |
+|---|---|
+|[loopback-example-app](https://github.com/strongloop/loopback-example-app)  |A full-stack LoopBack application (iCars).|
+|[strong-gateway-demo](https://github.com/strongloop/strong-gateway-demo) |OAuth2 with StrongLoop API Gateway|
+
 ## Topic-specific examples
 
 You can follow these examples in any order since they are self-contained and
@@ -40,12 +47,10 @@ specific to a particular topic.
 |---|---|
 |[loopback-component-push](https://github.com/strongloop/loopback-component-push/tree/master/example/server-2.0)  |LoopBack 2.x examples are in the `example/serve-2.0` directory. |
 |[loopback-component-storage](https://github.com/strongloop/loopback-component-storage/tree/master/example-2.0) |LoopBack 2.0 examples are in the `example-2.0` directory.  |
-|[loopback-example-app](https://github.com/strongloop/loopback-example-app)  |A full-stack LoopBack application (iCars).|
 |[loopback-example-mixins](https://github.com/strongloop/loopback-example-mixins) | Loading mixins from  directories and modules and performing different actions like observing changes and adding model attributes.   
 |[loopback-example-pubsub](https://github.com/strongloop/loopback-example-pubsub) |Example using strong-pubsub |
 |[loopback-example-offline-sync](https://github.com/strongloop/loopback-example-offline-sync)|Offline sync with Loopback |
 |[loopback-example-passport](https://github.com/strongloop/loopback-example-passport) |PassportJS with Loopback  |
-|[loopback-example-remote](https://github.com/strongloop/loopback-example-remote) |How to use the LoopBack remote connector.  **NOTE**: Work-in-progress  |
 |[loopback-example-ssl](https://github.com/strongloop/loopback-example-ssl)  |SSL with LoopBack   |
 | [angular-live-set-example](https://github.com/strongloop/angular-live-set-example) | Example of realtime LoopBack/AngularJS app using HTML5 server-sent events. |
 | [loopback-example-embedded-relations](https://github.com/strongloop/loopback-example-embedded-relations) | Using embedded model relations. |
@@ -53,9 +58,15 @@ specific to a particular topic.
 | [loopback-example-email](https://github.com/strongloop/loopback-example-email)| Sending email from a LoopBack app.|
 | [loopback-example-middleware](https://github.com/strongloop/loopback-example-middleware)| Using middleware.|
 | [loopback-example-operation-hooks](https://github.com/strongloop/loopback-example-operation-hooks)| Using operation hooks.|
-| [loopback-example-rest-connector](https://github.com/strongloop/loopback-example-rest-connector)| Basic use of loopback-connector-rest.|
 | [loopback-example-user-management](https://github.com/strongloop/loopback-example-user-management) | How to register, log in / log out, and verify users; how to reset a user's password.|
-|[strong-gateway-demo](https://github.com/strongloop/strong-gateway-demo) |OAuth2 with StrongLoop API Gateway|
+
+### Connector examples
+
+|Name&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|Description  |
+|---|---|
+| [loopback-example-rest-connector](https://github.com/strongloop/loopback-example-rest-connector)| Basic use of loopback-connector-rest.|
+|[loopback-example-remote](https://github.com/strongloop/loopback-example-remote) |Basic use of the LoopBack remote connector.  |
+| [loopback-example-email](https://github.com/strongloop/loopback-example-email)| Sending email from a LoopBack app using the email connector.|
 
 
 ### Client SDK examples
