@@ -14,7 +14,7 @@ The official list of Loopback example apps maintained by StrongLoop.
 The following examples should be completed in order.
 
 Order|Name|Description
----|---|---
+*-*|---|---
 1|[loopback-getting-started](https://github.com/strongloop/loopback-getting-started)|The basics of LoopBack. Follow along in [Getting started with LoopBack](http://docs.strongloop.com/display/LB/Getting+started+with+LoopBack) to build the example.
 2|[loopback-getting-started-intermediate](https://github.com/strongloop/loopback-getting-started-intermediate)|Full-stack example that builds on `loopback-getting-started` to demonstrate intermediate level features of LoopBack. Follow instructions in [Getting started part II](http://docs.strongloop.com/display/LB/Getting+started+part+II) to build the example.
 3|[loopback-example-database](https://github.com/strongloop/loopback-example-database)|Basic database related features.
@@ -49,7 +49,7 @@ Name|Description
 [loopback-example-remote](https://github.com/strongloop/loopback-example-remote)|Basic use of the LoopBack remote connector.
 [loopback-example-rest-connector](https://github.com/strongloop/loopback-example-rest-connector)|Basic use of loopback-connector-rest.
 [loopback-example-user-management](https://github.com/strongloop/loopback-example-user-management)|How to register, log in / log out, and verify users; how to reset a user's password.
-[loopback-example-xamarin](https://github.com/strongloop/loopback-example-xamarin)|Using Xamarin SDK
-[loopback-ios-getting-started](https://github.com/strongloop/loopback-ios-getting-started)|How to use the LoopBack iOS SDK
-[Push notifications](http://docs.strongloop.com/display/LB/Tutorial:+Push+notifications)
+[loopback-example-xamarin](https://github.com/strongloop/loopback-example-xamarin)|Using Xamarin SDK.
+[loopback-ios-getting-started](https://github.com/strongloop/loopback-ios-getting-started)|How to use the LoopBack iOS SDK.
+[Push notifications](http://docs.strongloop.com/display/LB/Tutorial:+Push+notifications)|Doc tutorial for push notifications.
 [strong-gateway-demo](https://github.com/strongloop/strong-gateway-demo)|OAuth2 with StrongLoop API Gateway.
