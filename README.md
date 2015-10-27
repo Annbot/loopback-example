@@ -5,7 +5,7 @@
   - [Ordered](#ordered)
   - [Unordered](#unordered)
 
-The official list of StrongLoop example apps.
+The official list of Loopback example apps maintained by StrongLoop.
 
 ## Tutorials
 
