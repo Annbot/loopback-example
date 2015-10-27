@@ -2,12 +2,12 @@
 
 The official list of Loopback example apps maintained by StrongLoop.
 
-- [Ordered tutorials](#ordered-tutorials)
-- [Unordered tutorials](#unordered-tutorials)
+- [Getting started examples](#getting-started-examples)
+- [Topic-specific examples](#topic-specific-examples)
 
-## Ordered tutorials
+## Getting started examples
 
-The following examples should be completed in order.
+The following examples should be completed in the precribed order.
 
 Order|Name|Description
 :-:|:--|:--
@@ -18,7 +18,7 @@ Order|Name|Description
 5|[loopback-example-app-logic](https://github.com/strongloop/loopback-example-app-logic)|How to add your own logic to a LoopBack app
 6|[loopback-example-access-control](https://github.com/strongloop/loopback-example-access-control)|Controlling access to your API endpoints
 
-## Unordered tutorials
+## Topic-specific examples
 
 The following examples may be completed in any order.
 
