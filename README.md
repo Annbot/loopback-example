@@ -1,9 +1,9 @@
 # loopback-example
 
+The official list of Loopback example apps maintained by StrongLoop.
+
 - [Ordered tutorials](#ordered-tutorials)
 - [Unordered tutorials](#unordered-tutorials)
-
-The official list of Loopback example apps maintained by StrongLoop.
 
 ## Ordered tutorials
 
