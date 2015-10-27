@@ -29,7 +29,7 @@ The following examples may be completed in any order.
 Name|Description
 ---|---
 [angular-live-set-example](https://github.com/strongloop/angular-live-set-example)|Example of realtime LoopBack/AngularJS app using HTML5 server-sent events.
-[loopback-android-getting-started](https://github.com/strongloop/loopback-android-getting-started)|How to use the LoopBack Android SDK
+[loopback-android-getting-started](https://github.com/strongloop/loopback-android-getting-started)|How to use the LoopBack Android SDK.
 [loopback-component-push](https://github.com/strongloop/loopback-component-push/tree/master/example/server-2.0)|LoopBack 2.x examples are in the `example/serve-2.0` directory.
 [loopback-component-storage](https://github.com/strongloop/loopback-component-storage/tree/master/example-2.0)|LoopBack 2.0 examples are in the `example-2.0` directory.
 [loopback-example-angular](https://github.com/strongloop/loopback-example-angular)|A simple "to do" list using AngularJS on the client and LoopBack on the server.
@@ -37,10 +37,10 @@ Name|Description
 [loopback-example-email](https://github.com/strongloop/loopback-example-email)|Sending email from a LoopBack app using the email connector.
 [loopback-example-isomorphic](https://github.com/strongloop/loopback-example-isomorphic)|Using the LoopBack API on both client and server.
 [loopback-example-mixins](https://github.com/strongloop/loopback-example-mixins)|Loading mixins from  directories and modules and performing different actions like observing changes and adding model attributes.
-[loopback-example-pubsub](https://github.com/strongloop/loopback-example-pubsub) |Example using strong-pubsub
-[loopback-example-offline-sync](https://github.com/strongloop/loopback-example-offline-sync)|Offline sync with Loopback
-[loopback-example-passport](https://github.com/strongloop/loopback-example-passport) |PassportJS with Loopback
-[loopback-example-ssl](https://github.com/strongloop/loopback-example-ssl)|SSL with LoopBack
+[loopback-example-pubsub](https://github.com/strongloop/loopback-example-pubsub) |Example using strong-pubsub.
+[loopback-example-offline-sync](https://github.com/strongloop/loopback-example-offline-sync)|Offline sync with Loopback.
+[loopback-example-passport](https://github.com/strongloop/loopback-example-passport) |PassportJS with Loopback.
+[loopback-example-ssl](https://github.com/strongloop/loopback-example-ssl)|SSL with LoopBack.
 [loopback-example-embedded-relations](https://github.com/strongloop/loopback-example-embedded-relations)|Using embedded model relations.
 [loopback-example-file-storage](https://github.com/strongloop/loopback-example-file-storage)|Storing and retrieving files using loopback-component-storage.
 [loopback-example-email](https://github.com/strongloop/loopback-example-email)|Sending email from a LoopBack app.
