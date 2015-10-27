@@ -2,8 +2,19 @@
 
 The official list of Loopback example apps maintained by StrongLoop.
 
+- [Overview](#overview)
 - [Getting started examples](#getting-started-examples)
 - [Topic-specific examples](#topic-specific-examples)
+
+
+## Overview
+
+The examples are organized into two sections: Getting started and
+Topic-specific. The idea is that all new LoopBack users should go through each
+Getting started example in the precribed order at least once **before** moving
+onto Topic-specific examples.
+
+> Topic-specific examples are self-contained and may be completed in any order.
 
 ## Getting started examples
 
