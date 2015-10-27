@@ -9,15 +9,10 @@ The official list of Loopback example apps maintained by StrongLoop.
 
 The following examples should be completed in order.
 
-1. [loopback-getting-started](https://github.com/strongloop/loopback-getting-started)
-  - The basics of LoopBack. Follow along in [Getting started with LoopBack](http://docs.strongloop.com/display/LB/Getting+started+with+LoopBack) to build the example.
-2. [loopback-getting-started-intermediate](https://github.com/strongloop/loopback-getting-started-intermediate)
-  - Full-stack example that builds on `loopback-getting-started` to demonstrate intermediate level features of LoopBack. Follow instructions in [Getting started part II](http://docs.strongloop.com/display/LB/Getting+started+part+II) to build the example.
-
 Order|Name|Description
 :-:|:--|:--
-1||
-2||
+1|[loopback-getting-started](https://github.com/strongloop/loopback-getting-started)|The basics of LoopBack. Follow along in [Getting started with LoopBack](http://docs.strongloop.com/display/LB/Getting+started+with+LoopBack) to build the example.
+2|[loopback-getting-started-intermediate](https://github.com/strongloop/loopback-getting-started-intermediate)|Full-stack example that builds on `loopback-getting-started` to demonstrate intermediate level features of LoopBack. Follow instructions in [Getting started part II](http://docs.strongloop.com/display/LB/Getting+started+part+II) to build the example.
 3|[loopback-example-database](https://github.com/strongloop/loopback-example-database)|Basic database related features.
 4|[loopback-example-relations](https://github.com/strongloop/loopback-example-relations)|Model relations and filtering via REST
 5|[loopback-example-app-logic](https://github.com/strongloop/loopback-example-app-logic)|How to add your own logic to a LoopBack app
