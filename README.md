@@ -11,19 +11,25 @@ Each tutorial provides step-by-step instructions to create an example app that i
 core LoopBack features.
 In general, these tutorials are intended to be followed in order.
 
-<table><thead>
-<tr>
-<th align="center">Order</th>
-<th width="320">Name</th>
-<th>Description</th>
-</tr>
-</thead><tbody>
-<tr>
-<td align="center">1</td>
-<td>
-<a href="https://github.com/strongloop/loopback-getting-started">loopback-getting-started</a></td>
-<td><b>START HERE</b> to learn the basics of LoopBack. Follow <a href="http://docs.strongloop.com/display/LB/Getting+started+with+LoopBack">Getting started with LoopBack</a> to understand it.</td>
-</tr>
+<table>
+  <thead>
+    <tr>
+      <th align="center">Order</th>
+      <th width="320">Name</th>
+      <th>Description</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center">1</td>
+      <td>
+        [loopback-getting-started](https://github.com)
+        <a href="https://github.com/strongloop/loopback-getting-started">loopback-getting-started</a>
+      </td>
+      <td>
+        <b>START HERE</b> to learn the basics of LoopBack. Follow <a href="http://docs.strongloop.com/display/LB/Getting+started+with+LoopBack">Getting started with LoopBack</a> to understand it.
+      </td>
+    </tr>
 <tr>
 <td align="center">2</td>
 <td>
