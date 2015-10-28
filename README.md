@@ -23,18 +23,18 @@ In general, these tutorials are intended to be followed in order.
     <tr>
       <td align="center">1</td>
       <td>
-        [loopback-getting-started](https://github.com)
         <a href="https://github.com/strongloop/loopback-getting-started">loopback-getting-started</a>
       </td>
       <td>
-        <b>START HERE</b> to learn the basics of LoopBack. Follow <a href="http://docs.strongloop.com/display/LB/Getting+started+with+LoopBack">Getting started with LoopBack</a> to understand it.
+        <strong>START HERE</strong> to learn the basics of LoopBack. Follow <a href="http://docs.strongloop.com/display/LB/Getting+started+with+LoopBack">Getting started with LoopBack</a> to understand it.
       </td>
     </tr>
-<tr>
-<td align="center">2</td>
-<td>
-<a href="https://github.com/strongloop/loopback-getting-started-intermediate">loopback-getting-started-intermediate</a></td>
-<td>Full-stack example that builds on <code>loopback-getting-started</code>. Follow <a href="http://docs.strongloop.com/display/LB/Getting+started+part+II">Getting started part II</a> to understand it.</td>
+    <tr>
+    <td align="center">2</td>
+    <td>
+      <a href="https://github.com/strongloop/loopback-getting-started-intermediate">loopback-getting-started-intermediate</a>
+    </td>
+    <td>Full-stack example that builds on <code>loopback-getting-started</code>. Follow <a href="http://docs.strongloop.com/display/LB/Getting+started+part+II">Getting started part II</a> to understand it.</td>
 </tr>
 <tr>
 <td align="center">3</td>
