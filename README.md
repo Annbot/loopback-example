@@ -66,53 +66,33 @@ These examples illustrate specific LoopBack features.
 <th>Description</th>
 </tr>
 </thead><tbody>
+
 <tr>
 <td>
 <a href="https://github.com/strongloop/angular-live-set-example">angular-live-set-example</a></td>
 <td>LoopBack/AngularJS app using HTML5 <a href="https://docs.strongloop.com/display/LB/Realtime+server-sent+events">realtime server-sent events</a>.</td>
 </tr>
+
 <tr>
 <td>
 <a href="https://github.com/strongloop/loopback-component-push/tree/master/example/server-2.0">loopback-component-push</a></td>
 <td>Example of using <a href="https://docs.strongloop.com/display/LB/Push+notifications">LoopBack Push Component</a>.
 <br/>NOTE: Example is in the <code>example/serve-2.0</code> directory.</td>
 </tr>
+
 <tr>
 <td>
 <a href="https://github.com/strongloop/loopback-component-storage/tree/master/example-2.0">loopback-component-storage</a></td>
 <td>Example of using <a href="https://docs.strongloop.com/display/LB/Storage+component">LoopBack storage component</a>.
 <br/>NOTE: Example is in the <code>example-2.0</code> directory.</td>
 </tr>
+
 <tr>
 <td>
 <a href="https://github.com/strongloop/loopback-example-app">loopback-example-app</a></td>
 <td>A full-stack LoopBack application (iCars).</td>
 </tr>
-<tr>
-<td>
-<a href="https://github.com/strongloop/loopback-example-mixins">loopback-example-mixins</a></td>
-<td>Loading <a href="https://docs.strongloop.com/display/LB/Defining+mixins">mixins</a>; observing changes and adding model attributes.</td>
-</tr>
-<tr>
-<td>
-<a href="https://github.com/strongloop/loopback-example-pubsub">loopback-example-pubsub</a></td>
-<td>Example using <a href="https://docs.strongloop.com/display/MSG/Pub-sub">StrongLoop publish-subscribe messaging</a>, strong-pubsub.</td>
-</tr>
-<tr>
-<td>
-<a href="https://github.com/strongloop/loopback-example-offline-sync">loopback-example-offline-sync</a></td>
-<td><a href="https://docs.strongloop.com/display/LB/Synchronization">Offline synchronization</a> with Loopback.</td>
-</tr>
-<tr>
-<td>
-<a href="https://github.com/strongloop/loopback-example-passport">loopback-example-passport</a></td>
-<td>Example of using the <a href="https://docs.strongloop.com/pages/viewpage.action?pageId=3836277">Third-party login (Passport) component</a>.</td>
-</tr>
-<tr>
-<td>
-<a href="https://github.com/strongloop/loopback-example-ssl">loopback-example-ssl</a></td>
-<td>SSL with LoopBack.</td>
-</tr>
+
 <tr>
 <td>
 <a href="https://github.com/strongloop/loopback-example-embedded-relations">loopback-example-embedded-relations</a></td>
@@ -132,8 +112,38 @@ These examples illustrate specific LoopBack features.
 
 <tr>
 <td>
+<a href="https://github.com/strongloop/loopback-example-mixins">loopback-example-mixins</a></td>
+<td>Loading <a href="https://docs.strongloop.com/display/LB/Defining+mixins">mixins</a>; observing changes and adding model attributes.</td>
+</tr>
+
+<tr>
+<td>
+<a href="https://github.com/strongloop/loopback-example-offline-sync">loopback-example-offline-sync</a></td>
+<td><a href="https://docs.strongloop.com/display/LB/Synchronization">Offline synchronization</a> with Loopback.</td>
+</tr>
+
+<tr>
+<td>
 <a href="https://github.com/strongloop/loopback-example-operation-hooks">loopback-example-operation-hooks</a></td>
 <td>Example of using <a href="https://docs.strongloop.com/display/LB/Operation+hooks">operation hooks</a>.</td>
+</tr>
+
+<tr>
+<td>
+<a href="https://github.com/strongloop/loopback-example-passport">loopback-example-passport</a></td>
+<td>Example of using the <a href="https://docs.strongloop.com/pages/viewpage.action?pageId=3836277">Third-party login (Passport) component</a>.</td>
+</tr>
+
+<tr>
+<td>
+<a href="https://github.com/strongloop/loopback-example-pubsub">loopback-example-pubsub</a></td>
+<td>Example using <a href="https://docs.strongloop.com/display/MSG/Pub-sub">StrongLoop publish-subscribe messaging</a>, strong-pubsub.</td>
+</tr>
+
+<tr>
+<td>
+<a href="https://github.com/strongloop/loopback-example-ssl">loopback-example-ssl</a></td>
+<td>SSL with LoopBack.</td>
 </tr>
 
 <tr>
@@ -141,6 +151,7 @@ These examples illustrate specific LoopBack features.
 <a href="https://github.com/strongloop/loopback-example-user-management">loopback-example-user-management</a></td>
 <td>How to register, log in / log out, and verify users; how to reset a user's password.</td>
 </tr>
+
 <tr>
 <td>
 <a href="https://github.com/strongloop/strong-gateway-demo">strong-gateway-demo</a></td>
@@ -150,7 +161,7 @@ These examples illustrate specific LoopBack features.
 
 ## Connector examples
 
-These examples illustrate use of non-database connectors (see [loopback-example-database](https://github.com/strongloop/loopback-example-database) for example using database connectors).
+These examples illustrate use of non-database connectors (see [loopback-example-database](https://github.com/strongloop/loopback-example-database) for an example that uses the  database connectors).
 
 <table><thead>
 <tr>
@@ -159,12 +170,10 @@ These examples illustrate use of non-database connectors (see [loopback-example-
 </tr>
 </thead><tbody>
 <tr>
-<td><a href="https://github.com/strongloop/loopback-example-rest-connector">loopback-example-rest-connector</a></td>
-<td>Basic use of REST connector.</td>
-</tr>
-<tr>
-<td><a href="https://github.com/strongloop/loopback-example-remote">loopback-example-remote</a></td>
-<td>Basic use of the remote connector.</td>
+<td>
+<a href="https://github.com/strongloop/loopback-connector-soap/tree/master/example">loopback-connector-soap</a></td>
+<td>Basic use of SOAP connector.
+<br/>NOTE: The example app is in the <code>example</code> directory.</td>
 </tr>
 
 <tr>
@@ -173,17 +182,19 @@ These examples illustrate use of non-database connectors (see [loopback-example-
 </tr>
 
 <tr>
-<td>
-<a href="https://github.com/strongloop/loopback-connector-soap/tree/master/example">loopback-connector-soap</a></td>
-<td>Example of SOAP connector.
-<br/>NOTE: The example app is in the <code>example</code> directory.</td>
+<td><a href="https://github.com/strongloop/loopback-example-remote">loopback-example-remote</a></td>
+<td>Basic use of the remote connector.</td>
 </tr>
 
+<tr>
+<td><a href="https://github.com/strongloop/loopback-example-rest-connector">loopback-example-rest-connector</a></td>
+<td>Basic use of REST connector.</td>
+</tr>
 </tbody></table>
 
 ## Client SDK examples
 
-These examples illustrate using LoopBack's [client SDKs](https://docs.strongloop.com/display/LB/Client+SDKs).
+These examples illustrate use of LoopBack's [client SDKs](https://docs.strongloop.com/display/LB/Client+SDKs).
 
 <table><thead>
 <tr>
@@ -193,22 +204,26 @@ These examples illustrate using LoopBack's [client SDKs](https://docs.strongloop
 </thead><tbody>
 <tr><td>
 <a href="https://github.com/strongloop/loopback-android-getting-started">loopback-android-getting-started</a></td>
-<td>How to use the LoopBack Android SDK
+<td>Using LoopBack Android SDK
 </td></tr>
-<tr><td>
-<a href="https://github.com/strongloop/loopback-ios-getting-started">loopback-ios-getting-started</a></td>
-<td>How to use the LoopBack iOS SDK
-</td></tr>
+
 <tr><td>
 <a href="https://github.com/strongloop/loopback-example-angular">loopback-example-angular</a></td>
-<td>Example using AngularJS client.</td>
+<td>Using AngularJS client.</td>
 </tr>
+
 <tr><td>
 <a href="https://github.com/strongloop/loopback-example-isomorphic">loopback-example-isomorphic</a></td>
-<td>Using the LoopBack API on both client and server.</td>
+<td>Using the LoopBack API on both client and server ("isomorphic LoopBack").</td>
 </tr>
+
 <tr>
 <td><a href="https://github.com/strongloop/loopback-example-xamarin">loopback-example-xamarin</a></td>
 <td>Using Xamarin SDK</td>
 </tr>
+
+<tr><td>
+<a href="https://github.com/strongloop/loopback-ios-getting-started">loopback-ios-getting-started</a></td>
+<td>Using LoopBack iOS SDK
+</td></tr>
 </tbody></table>
