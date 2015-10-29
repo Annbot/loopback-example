@@ -95,12 +95,6 @@ These examples illustrate specific LoopBack features.
           loopback-example-embedded-relations</a></td>
       <td>Using <a href="https://docs.strongloop.com/display/LB/Embedded+models+and+relations">
           embedded model relations</a>.</td></tr>
-    <tr>
-      <td><a href="https://github.com/strongloop/loopback-example-file-storage">
-          loopback-example-file-storage</a></td>
-      <td>Storing and retrieving files using <a href="https://docs.strongloop.com/display/LB/Storage+component">
-          LoopBack storage component</a>, loopback-component-storage.</td></tr>
-    <tr>
       <td><a href="https://github.com/strongloop/loopback-example-middleware">
           loopback-example-middleware</a></td>
       <td>Using middleware.</td></tr>
