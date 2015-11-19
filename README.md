@@ -158,10 +158,6 @@ for an example that uses the database connectors).
       <td>Basic use of SOAP connector.<br/>NOTE: The example app is in the
           <code>example</code> directory.</td></tr>
     <tr>
-      <td><a href="https://github.com/strongloop/loopback-example-email">
-          loopback-example-email</a></td>
-      <td>Sending email from a LoopBack app using the email connector.</td></tr>
-    <tr>
       <td><a href="https://github.com/strongloop/loopback-example-remote">
           loopback-example-remote</a></td>
       <td>Basic use of the remote connector.</td></tr>
