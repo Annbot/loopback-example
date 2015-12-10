@@ -126,7 +126,7 @@ These examples illustrate specific LoopBack features.
     <tr>
       <td><a href="https://github.com/strongloop/loopback-example-react">
           loopback-example-react</a>
-      <td>LoopBack with React.
+      <td>ShowcasingLoopBack with React. *WORK IN PROGRESS*
     <tr>
       <td><a href="https://github.com/strongloop/loopback-example-ssl">
           loopback-example-ssl</a></td>
