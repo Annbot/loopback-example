@@ -75,12 +75,6 @@ These examples illustrate specific LoopBack features.
       <td>LoopBack/AngularJS app using HTML5 <a href="https://docs.strongloop.com/display/LB/Realtime+server-sent+events">
           realtime server-sent events</a>.</td></tr>
     <tr>
-      <td><a href="https://github.com/strongloop/loopback-component-push/tree/master/example/server-2.0">
-          loopback-component-push</a></td>
-      <td>Example of using <a href="https://docs.strongloop.com/display/LB/Push+notifications">
-          LoopBack Push Component</a>.<br/>NOTE: Example is in the <code>
-          example/serve-2.0</code> directory.</td></tr>
-    <tr>
       <td><a href="https://github.com/strongloop/loopback-component-storage/tree/master/example-2.0">
           loopback-component-storage</a></td>
       <td>Example of using <a href="https://docs.strongloop.com/display/LB/Storage+component">
