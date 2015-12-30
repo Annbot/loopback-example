@@ -124,6 +124,11 @@ These examples illustrate specific LoopBack features.
       <td>Example using <a href="https://docs.strongloop.com/display/MSG/Pub-sub">
           StrongLoop publish-subscribe messaging</a>, strong-pubsub.</td></tr>
     <tr>
+      <td><a href="https://github.com/strongloop/loopback-example-push">
+          loopback-example-push</a></td>
+      <td>Example of <a href="https://docs.strongloop.com/display/LB/Push+notifications">
+          LoopBack push notifications</a>, with iOS and Android clients.</td></tr>
+    <tr>
       <td><a href="https://github.com/strongloop/loopback-example-ssl">
           loopback-example-ssl</a></td>
       <td>SSL with LoopBack.</td></tr>
