@@ -85,10 +85,6 @@ These examples illustrate specific LoopBack features.
           loopback-example-app</a></td>
       <td>A full-stack LoopBack application (iCars).</td></tr>
     <tr>
-      <td><a href="https://github.com/strongloop/loopback-example-embedded-relations">
-          loopback-example-embedded-relations</a></td>
-      <td>Using <a href="https://docs.strongloop.com/display/LB/Embedded+models+and+relations">
-          embedded model relations</a>.</td></tr>
       <td><a href="https://github.com/strongloop/loopback-example-middleware">
           loopback-example-middleware</a></td>
       <td>Using middleware.</td></tr>
