@@ -81,10 +81,6 @@ These examples illustrate specific LoopBack features.
           LoopBack storage component</a>.<br/>NOTE: Example is in the <code>
           example-2.0</code> directory.</td></tr>
     <tr>
-      <td><a href="https://github.com/strongloop/loopback-example-app">
-          loopback-example-app</a></td>
-      <td>A full-stack LoopBack application (iCars).</td></tr>
-    <tr>
       <td><a href="https://github.com/strongloop/loopback-example-middleware">
           loopback-example-middleware</a></td>
       <td>Using middleware.</td></tr>
