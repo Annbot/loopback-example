@@ -95,11 +95,6 @@ These examples illustrate specific LoopBack features.
       <td><a href="https://docs.strongloop.com/display/LB/Synchronization">
           Offline synchronization</a> with Loopback.</td></tr>
     <tr>
-      <td><a href="https://github.com/strongloop/loopback-example-operation-hooks">
-          loopback-example-operation-hooks</a></td>
-      <td>Example of using <a href="https://docs.strongloop.com/display/LB/Operation+hooks">
-          operation hooks</a>.</td></tr>
-    <tr>
       <td><a href="https://github.com/strongloop/loopback-example-passport">
           loopback-example-passport</a></td>
       <td>Example of using the <a href="https://docs.strongloop.com/pages/viewpage.action?pageId=3836277">
