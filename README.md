@@ -116,6 +116,11 @@ These examples illustrate specific LoopBack features.
           loopback-example-ssl</a>
       <td>SSL with LoopBack.
     <tr>
+      <td><a href="https://github.com/strongloop/loopback-example-storage">
+          loopback-example-storage</a>
+      <td>How to use storage providers such as Amazon, Azure, Openstack and
+          Rackspace with LoopBack.
+    <tr>
       <td><a href="https://github.com/strongloop/loopback-example-user-management">
           loopback-example-user-management</a>
       <td>How to register, log in / log out, and verify users; how to reset a
