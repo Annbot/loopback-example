@@ -68,12 +68,6 @@ These examples illustrate specific LoopBack features.
   </thead>
   <tbody>
     <tr>
-      <td><a href="https://github.com/strongloop/loopback-component-storage/tree/master/example-2.0">
-          loopback-component-storage</a>
-      <td>Example of using <a href="https://docs.strongloop.com/display/LB/Storage+component">
-          LoopBack storage component</a>.<br/>NOTE: Example is in the <code>
-          example-2.0</code> directory.
-    <tr>
       <td><a href="https://github.com/strongloop/loopback-example-angular-live-set">
           loopback-example-angular-live-set</a>
       <td>LoopBack/AngularJS app using HTML5 <a href="https://docs.strongloop.com/display/LB/Realtime+server-sent+events">
