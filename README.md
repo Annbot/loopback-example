@@ -78,7 +78,7 @@ These examples illustrate specific LoopBack features.
       <td>Remote, REST API, and SOAP connector.
     <tr>
       <td><a href="https://github.com/strongloop/loopback-example-kv-connectors">loopback-example-kv-connectors
-      <td>Examples for KeyValue connectors such as <code>loopback-connector-kv-redis</code>.
+      <td>KeyValue connectors such as <code>loopback-connector-kv-redis</code>.
     <tr>
       <td><a href="https://github.com/strongloop/loopback-example-middleware">
           loopback-example-middleware
