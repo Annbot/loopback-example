@@ -15,7 +15,7 @@ intended to be followed in order.
   <thead>
     <tr>
       <th align="center">Order
-      <th width="320">Name
+      <th width="310">Name
       <th>Description
   </thead>
   <tbody>
@@ -78,7 +78,7 @@ These examples illustrate specific LoopBack features.
       <td>Remote, REST API, and SOAP connector.
     <tr>
       <td><a href="https://github.com/strongloop/loopback-example-kv-connectors">loopback-example-kv-connectors
-      <td>Examples for KeyValue connectors such as `loopback-connector-kv-redis`.
+      <td>Examples for KeyValue connectors such as <code>floopback-connector-kv-redis</code>.
     <tr>
       <td><a href="https://github.com/strongloop/loopback-example-middleware">
           loopback-example-middleware
