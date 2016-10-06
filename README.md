@@ -1,3 +1,9 @@
+# DEPRECATED
+ 
+Examples are now maintained at http://loopback.io/doc/en/lb2/Tutorials-and-examples.html
+
+---
+
 This document is the central organizational point for LoopBack examples, which
 are divided into the following broad categories:
 
